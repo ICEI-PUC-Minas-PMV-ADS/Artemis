@@ -16,17 +16,7 @@ Meu nome é Sara Maria Ferreira Alves, Paulista de 54 anos. Sou psicóloga e, no
 	Diante diversos dilemas morais, percebi que, talvez eu tivesse parte das ferramentas e conhecimentos necessários pra auxiliar outras mulheres, orientando-as e as guiando pra um futuro um pouco mais feliz, muito distante de desfechos tão tristes quanto o que presenciei. Entretanto, encontrei obstáculos e resistência, a confiança é algo que demanda tempo e, seria de grande valia um meio que me direcionasse a pessoas que de fato estejam aguardando e precisando de algum tipo de auxílio.
 
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 
