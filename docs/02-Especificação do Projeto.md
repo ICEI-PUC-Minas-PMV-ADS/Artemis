@@ -10,7 +10,11 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ![Persona](https://user-images.githubusercontent.com/128602472/227563664-86e4f8ae-21a9-4716-b4ef-55e4139efc9e.jpg)
 
-Sara Maria Ferreira Alves. ( Em desenvolvimento )
+# ( Em desenvolvimento )
+Meu nome é Sara Maria Ferreira Alves, Paulista de 54 anos. Sou psicóloga e, nos últimos anos me sinto compelida a ajudar o próximo. Sempre trabalhei no contexto da psicologia social, abordando o aspecto profissional das interações humanas, mas passei por uma experiência traumática que, me fez repensar sobre meu papel enquanto mulher e mãe.
+	No ano de 2019, infelizmente tive que dar adeus a uma de minhas melhores amigas. Assim como eu, mulher guerreira e batalhadora que sempre fez de tudo em prol da família e dos filhos, os quais vão ter que conviver com a mágoa de perdê-la pelas mãos do próprio pai. Por um certo tempo fiquei pensando, como seria possível apagar da memória algo tão cruel? Como continuar vivendo com uma ferida tão arraigada em nossos corações?
+	Diante diversos dilemas morais, percebi que, talvez eu tivesse parte das ferramentas e conhecimentos necessários pra auxiliar outras mulheres, orientando-as e as guiando pra um futuro um pouco mais feliz, muito distante de desfechos tão tristes quanto o que presenciei. Entretanto, encontrei obstáculos e resistência, a confiança é algo que demanda tempo e, seria de grande valia um meio que me direcionasse a pessoas que de fato estejam aguardando e precisando de algum tipo de auxílio.
+
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
