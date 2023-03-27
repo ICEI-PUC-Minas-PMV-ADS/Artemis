@@ -6,16 +6,13 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
-## Personas
-
-
 
 ## Personas
 
 |    Sara Maria Ferreira Alves | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
-|<img src="!![Persona](https://user-images.githubusercontent.com/128602472/227962140-31b371ca-183d-478a-a090-4399e353e090.jpg)" width = 250>| **Idade:** 54 anos <br> **Ocupação:** Formada em Psicologia|**Aplicativos:**<br><ul>● Instagram <br>● Linkedin <br>● Telegram<br>● WhatsApp <br></ul>|
-|**Motivações:**<br><ul>● Concluir a faculdade. <br><br>● Adquirir experiências com metodologias agéis. </ul>|**Frustrações:**<br><ul>● Dificuldade em conseguir estágio por não ter experiência; <br><br>● Na faculdade não tem muita oportunidade de praticar a metodologia Ágil aplicada ao desenvolvimento de software.   |**Hobbies/Histórias:**<br><ul>● Cozinhar <br>● Ler livros <br>● Viajar <br></ul>|
+|<img src="![Persona](https://user-images.githubusercontent.com/128602472/227962140-31b371ca-183d-478a-a090-4399e353e090.jpg)" width = 250>| **Idade:** 54 anos <br> **Ocupação:** Formada em Psicologia|**Aplicativos:**<br><ul>● Instagram <br>● Linkedin <br>● Telegram<br>● WhatsApp <br></ul>|
+|**Motivações:**<br><ul>● Auxiliar psicologicamente vítimas de violência. <br>. </ul>|**Frustrações:**<br><ul>● Encontrar quem precisa de auxilio; 
 
 
 
