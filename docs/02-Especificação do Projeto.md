@@ -8,14 +8,15 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-![Persona](https://user-images.githubusercontent.com/128602472/227563664-86e4f8ae-21a9-4716-b4ef-55e4139efc9e.jpg)
 
-# ( Em desenvolvimento )
-   Meu nome é Sara Maria Ferreira Alves, Paulista de 54 anos. Sou psicóloga e, nos últimos anos me sinto compelida a ajudar o próximo. Sempre trabalhei no contexto da psicologia social, abordando o aspecto profissional das interações humanas, mas passei por uma experiência traumática que, me fez repensar sobre meu papel enquanto mulher e mãe.
 
-   No ano de 2019, infelizmente tive que dar adeus a uma de minhas melhores amigas. Assim como eu, mulher guerreira e batalhadora que sempre fez de tudo em prol da família e dos filhos, os quais vão ter que conviver com a mágoa de perdê-la pelas mãos do próprio pai. Por um certo tempo fiquei pensando, como seria possível apagar da memória algo tão cruel? Como continuar vivendo com uma ferida tão arraigada em nossos corações?
-	
-   Diante diversos dilemas morais, percebi que, talvez eu tivesse parte das ferramentas e conhecimentos necessários pra auxiliar outras mulheres, orientando-as e as guiando pra um futuro um pouco mais feliz, muito distante de desfechos tão tristes quanto o que presenciei. Entretanto, encontrei obstáculos e resistência, a confiança é algo que demanda tempo e, seria de grande valia um meio que me direcionasse a pessoas que de fato estejam aguardando e precisando de algum tipo de auxílio.
+## Personas
+
+|    Sara Maria Ferreira Alves | Informações:                       |                                        |
+|--------------------|------------------------------------|----------------------------------------|
+|<img src="![Persona](https://user-images.githubusercontent.com/128602472/227563664-86e4f8ae-21a9-4716-b4ef-55e4139efc9e.jpg)" width = 250>| **Idade:** 54 anos <br> **Ocupação:** Formada em Psicologia|**Aplicativos:**<br><ul>● Instagram <br>● Linkedin <br>● Telegram<br>● WhatsApp <br></ul>|
+|**Motivações:**<br><ul>● Concluir a faculdade. <br><br>● Adquirir experiências com metodologias agéis. </ul>|**Frustrações:**<br><ul>● Dificuldade em conseguir estágio por não ter experiência; <br><br>● Na faculdade não tem muita oportunidade de praticar a metodologia Ágil aplicada ao desenvolvimento de software.   |**Hobbies/Histórias:**<br><ul>● Cozinhar <br>● Ler livros <br>● Viajar <br></ul>|
+
 
 
 
