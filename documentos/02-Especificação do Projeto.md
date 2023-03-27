@@ -12,9 +12,9 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 |    Sara Maria Ferreira Alves | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
 |![SaraMaria1](https://user-images.githubusercontent.com/128602472/227969457-a1ef776a-2f37-4caa-abc8-d5d718c0e14f.jpg)| **Idade:** 54 anos <br> **Ocupação:** Psicóloga|**Aplicativos:**<br><ul>● Instagram <br>● Linkedin <br>● WhatsApp <br></ul>|
-|**Motivações:**<br><ul>● Auxiliar psicologicamente vítimas de violência. <br> </ul>|**Frustrações:**<br><ul>● Dificuldade em encontrar quem precise de auxílio <br>.   |**Hobbies/Histórias:**<br><ul>● Dançar <br>● Ler livros <br>● Viajar com a família 
----
-![Administradora](https://br.freepik.com/fotos-premium/mulher-negra-desfrutando-de-compras-despreocupadas_27523732.htm)
+|**Motivações:**<br><ul>● Auxiliar psicologicamente vítimas de violência. <br> </ul>|**Frustrações:**<br><ul>● Dificuldade em encontrar quem precise de auxílio <br>.   |**Hobbies/Histórias:**<br><ul>● Dançar <br>● Ler livros <br>● Viajar com a família
+ 
+![Adm](https://mundonegro.inf.br/wp-content/uploads/2019/03/Jorge-Bispo_1588_Corte.jpg)
  
 **Nome:** Larissa Maria Machado 
  
