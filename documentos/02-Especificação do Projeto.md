@@ -14,7 +14,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 |![SaraMaria1](https://user-images.githubusercontent.com/128602472/227969457-a1ef776a-2f37-4caa-abc8-d5d718c0e14f.jpg)| **Idade:** 54 anos <br> **Ocupação:** Psicóloga|**Aplicativos:**<br><ul>● Instagram <br>● Linkedin <br>● WhatsApp <br></ul>|
 |**Motivações:**<br><ul>● Auxiliar psicologicamente vítimas de violência. <br> </ul>|**Frustrações:**<br><ul>● Dificuldade em encontrar quem precise de auxílio <br>.   |**Hobbies/Histórias:**<br><ul>● Dançar <br>● Ler livros <br>● Viajar com a família 
 ---
-![Administradora](https://www.google.com/search?q=persona+mulher+negra&tbm=isch&ved=2ahUKEwjO8rW44Pz9AhUsF7kGHUzRDcMQ2-cCegQIABAA&oq=persona+mulher+negra&gs_lcp=CgNpbWcQAzoHCAAQigUQQzoGCAAQBxAeOgQIABAeOggIABAIEAcQHjoICAAQBRAHEB5QiQdY1BNgjBZoAHAAeACAAagBiAHDCZIBAzAuOJgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=SOIhZM6uGayu5OUPzKK3mAw&bih=601&biw=1280#imgrc=t0rszpw7WoWcOM)
+![Administradora](https://br.freepik.com/fotos-premium/mulher-negra-desfrutando-de-compras-despreocupadas_27523732.htm)
  
 **Nome:** Larissa Maria Machado 
  
