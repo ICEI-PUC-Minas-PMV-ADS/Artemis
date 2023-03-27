@@ -11,8 +11,9 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 |    Sara Maria Ferreira Alves | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
-|<img src="   " width = 250>| **Idade:** 54 anos <br> **Ocupação:** Psicóloga|**Aplicativos:**<br><ul>● Instagram <br>● Linkedin <br>● Telegram<br>● WhatsApp <br></ul>|
-|**Motivações:**<br><ul>● Auxiliar psicologicamente vítimas de violência. <br> </ul>|**Frustrações:**<br><ul>● Dificuldade em encontrar quem precise de auxílio <br>.   |**Hobbies/Histórias:**<br><ul>● Cozinhar <br>● Ler livros <br>● Viajar <br></ul>|
+|<img src="![image](https://user-images.githubusercontent.com/128602472/227966969-e861aca7-4296-4780-a331-41711fc1efb4.png)
+" width = 250>| **Idade:** 54 anos <br> **Ocupação:** Psicóloga|**Aplicativos:**<br><ul>● Instagram <br>● Linkedin <br>● Telegram<br>● WhatsApp <br></ul>|
+|**Motivações:**<br><ul>● Auxiliar psicologicamente vítimas de violência. <br> </ul>|**Frustrações:**<br><ul>● Dificuldade em encontrar quem precise de auxílio <br>.   |**Hobbies/Histórias:**<br><ul>● Dançar <br>● Ler livros <br>● Viajar com os filhos <br></ul>|
 
 
 
