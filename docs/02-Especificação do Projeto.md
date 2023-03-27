@@ -14,7 +14,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 |    Sara Maria Ferreira Alves | Informações:                       |                                        |
 |--------------------|------------------------------------|----------------------------------------|
-|<img src="!(https://user-images.githubusercontent.com/128602472/227563664-86e4f8ae-21a9-4716-b4ef-55e4139efc9e.jpg)" width = 250>| **Idade:** 54 anos <br> **Ocupação:** Formada em Psicologia|**Aplicativos:**<br><ul>● Instagram <br>● Linkedin <br>● Telegram<br>● WhatsApp <br></ul>|
+|<img src="!![Persona](https://user-images.githubusercontent.com/128602472/227962140-31b371ca-183d-478a-a090-4399e353e090.jpg)" width = 250>| **Idade:** 54 anos <br> **Ocupação:** Formada em Psicologia|**Aplicativos:**<br><ul>● Instagram <br>● Linkedin <br>● Telegram<br>● WhatsApp <br></ul>|
 |**Motivações:**<br><ul>● Concluir a faculdade. <br><br>● Adquirir experiências com metodologias agéis. </ul>|**Frustrações:**<br><ul>● Dificuldade em conseguir estágio por não ter experiência; <br><br>● Na faculdade não tem muita oportunidade de praticar a metodologia Ágil aplicada ao desenvolvimento de software.   |**Hobbies/Histórias:**<br><ul>● Cozinhar <br>● Ler livros <br>● Viajar <br></ul>|
 
 
