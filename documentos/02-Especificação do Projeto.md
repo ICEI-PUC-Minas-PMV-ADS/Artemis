@@ -13,7 +13,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 |--------------------|------------------------------------|----------------------------------------|
 |![SaraMaria1](https://user-images.githubusercontent.com/128602472/227969457-a1ef776a-2f37-4caa-abc8-d5d718c0e14f.jpg)| **Idade:** 54 anos <br> **Ocupação:** Psicóloga|**Aplicativos:**<br><ul>● Instagram <br>● Linkedin <br>● WhatsApp <br></ul>|
 |**Motivações:**<br><ul>● Auxiliar psicologicamente vítimas de violência. <br> </ul>|**Frustrações:**<br><ul>● Dificuldade em encontrar quem precise de auxílio <br>.   |**Hobbies/Histórias:**<br><ul>● Dançar <br>● Ler livros <br>● Viajar com a família 
- 
+---
  **Nome:** Larissa Maria Machado 
  
 **Sexo:** Feminino, Mulher Cis 
