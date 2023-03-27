@@ -9,9 +9,9 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-|    Sara Maria Ferreira Alves | Informações:                       |                                        |
+|    Sara Maria Ferreira Alves | Informações:                                                      |
 |--------------------|------------------------------------|----------------------------------------|
-|![SaraMaria](https://user-images.githubusercontent.com/128602472/227967385-3348f4eb-c5ef-48c2-b1f0-68bec9c05238.jpg)
+|![SaraMaria1](https://user-images.githubusercontent.com/128602472/227968581-ddfe986c-e447-410d-b478-79628013a55a.jpg)
 | **Idade:** 54 anos <br> **Ocupação:** Psicóloga|**Aplicativos:**<br><ul>● Instagram <br>● Linkedin <br>● Telegram<br>● WhatsApp <br></ul>|
 |**Motivações:**<br><ul>● Auxiliar psicologicamente vítimas de violência. <br> </ul>|**Frustrações:**<br><ul>● Dificuldade em encontrar quem precise de auxílio <br>.   |**Hobbies/Histórias:**<br><ul>● Dançar <br>● Ler livros <br>● Viajar com os filhos <br></ul>|
 
