@@ -78,8 +78,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O sistema deve ser uma aplicação web responsiva| Alta | 
+|RNF-002| O sistema deve garantir que os dados sobre os beneficiários dos projetos, os colaboradores e o administrador sejam armazenados dentros nas normas da LGPD |    Alta |
+|RNF-001| O sistema deve permitir que apenas o usuário administrador possa cadastrar os colaboradores e beneficiários dos projetos| Alta | 
+ |RNF-001| O sistema não deve permitir o acesso dos beneficiários dos projetos à aplicação| Alta | 
+|RNF-001| O sistema deve permitir que apenas o captalizador de recursos e o usuário administrador possam registrar, alterar, visualizar e emitir relatórios sobre os recursos (doações)| Médio |
+|RNF-001| O sistema deve permitir que apenas o usuários administrador possa ter acesso irrestrito à todos os relatórios| Médio | 
+ |RNF-001| O sistema deve emitir uma mensagem de confirmação toda vez que os usuários usarem as funcionalidades registrar, alterar e deletar antes de prosseguir com a ação| Média |
+ |RNF-001| O sistema deve permitir a opção de emitir o relatórios em PDF| Baixa | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
