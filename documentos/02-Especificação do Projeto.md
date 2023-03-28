@@ -64,8 +64,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O sistema deve permitir que todos os usuários tenham perfis | ALTA | 
+|RF-002| O sistema deve permitir que todos os usuários cadastrados tenham acesso ao aplicativo pelo login e senha | ALTA |
+|RF-003| O sistema deve permitir registrar, alterar, visualizar e deletar os compromissos com horários, datas e descrição nas agendas dentro dos perfis dos usuários| Alta |
+|RF-004| O sistema deve permitir aos usuários emitir relatórios sobre a agenda de compromissos   | ALTA |
+|RF-005| O sistema deve permitir que os beneficiários dos projetos (vítimas e seus dependentes) sejam cadastrados sem autorizar à eles o acesso ao sistema | ALTA |
+|RF-006| O sistema deve permitir emitir reletórios sobre os recursos (doações) | ALTA |
+|RF-007| O sistema deve permitir que apenas o captalizador de recursos e o administrador possam registrar e visualizar os recursos (doações) | ALTA |
+|RF-008| O sistema deve permitir que apenas o usuário administrador possa cadastrar os usuários e ter acesso irrestrito à todos os relatórios| ALTA | 
 
 
 ### Requisitos não Funcionais
