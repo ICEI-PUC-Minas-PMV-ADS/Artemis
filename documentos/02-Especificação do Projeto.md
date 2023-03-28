@@ -64,28 +64,30 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O sistema deve permitir que todos os usuários tenham perfis | ALTA | 
-|RF-002| O sistema deve permitir que todos os usuários cadastrados tenham acesso ao aplicativo pelo login e senha | ALTA |
-|RF-003| O sistema deve permitir registrar, alterar, visualizar e deletar os compromissos com horários, datas e descrição nas agendas dentro dos perfis dos usuários| Alta |
-|RF-004| O sistema deve permitir aos usuários emitir relatórios sobre a agenda de compromissos   | ALTA |
-|RF-005| O sistema deve permitir que os beneficiários dos projetos (vítimas e seus dependentes) sejam cadastrados sem autorizar à eles o acesso ao sistema | ALTA |
-|RF-006| O sistema deve permitir emitir reletórios sobre os recursos (doações) | ALTA |
-|RF-007| O sistema deve permitir que apenas o captalizador de recursos e o administrador possam registrar e visualizar os recursos (doações) | ALTA |
-|RF-008| O sistema deve permitir que apenas o usuário administrador possa cadastrar os usuários e ter acesso irrestrito à todos os relatórios| ALTA | 
+|RF-01| O sistema deve permitir que todos os usuários tenham perfis | ALTA | 
+|RF-02| O sistema deve permitir que todos os usuários cadastrados tenham acesso ao aplicativo pelo login e senha | ALTA |
+|RF-03| O sistema deve permitir registrar, alterar, visualizar e deletar os compromissos com horários, datas e descrição nas agendas dentro dos perfis dos usuários| Alta |
+|RF-04| O sistema deve permitir aos usuários emitir relatórios sobre a agenda de compromissos   | ALTA |
+|RF-05| O sistema deve permitir que os beneficiários dos projetos (vítimas e seus dependentes) sejam cadastrados| Média |
+|RF-07| O sistema deve permitir registrar e visualizar os recursos (doações) | ALTA |
+|RF-06| O sistema deve permitir emitir reletórios sobre os recursos (doações) | ALTA |
+
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser uma aplicação web responsiva| Alta | 
-|RNF-002| O sistema deve garantir que os dados sobre os beneficiários dos projetos, os colaboradores e o administrador sejam armazenados dentros nas normas da LGPD |    Alta |
-|RNF-001| O sistema deve permitir que apenas o usuário administrador possa cadastrar os colaboradores e beneficiários dos projetos| Alta | 
- |RNF-001| O sistema não deve permitir o acesso dos beneficiários dos projetos à aplicação| Alta | 
-|RNF-001| O sistema deve permitir que apenas o captalizador de recursos e o usuário administrador possam registrar, alterar, visualizar e emitir relatórios sobre os recursos (doações)| Médio |
-|RNF-001| O sistema deve permitir que apenas o usuários administrador possa ter acesso irrestrito à todos os relatórios| Médio | 
- |RNF-001| O sistema deve emitir uma mensagem de confirmação toda vez que os usuários usarem as funcionalidades registrar, alterar e deletar antes de prosseguir com a ação| Média |
- |RNF-001| O sistema deve permitir a opção de emitir o relatórios em PDF| Baixa | 
+|RNF-01| O sistema deve ser uma aplicação web responsiva| Alta | 
+|RNF-02| O sistema deve garantir que os dados sobre os beneficiários dos projetos, os colaboradores e o administrador sejam armazenados dentros nas normas da LGPD |    Alta |
+|RNF-03| O sistema deve permitir que apenas o usuário administrador possa cadastrar os colaboradores e beneficiários dos projetos| Alta | 
+|RNF-04| O sistema não deve permitir o acesso dos beneficiários dos projetos à aplicação| Alta |
+|RNF-05| O sistema deve emitir uma mensagem de erro caso a senha e/ou login não estarem corretas| Alta |
+|RNF-06| O sistema deve emitir uma mensagem de "Este usuário já existe" caso o colaborador ou beneficiário do projeto já estarem cadastrados no aplicativo| Alta | 
+|RNF-07| O sistema deve permitir que apenas o captalizador de recursos e o usuário administrador possam registrar, alterar, visualizar e emitir relatórios sobre os recursos (doações)| Médio |
+|RNF-08| O sistema deve permitir que apenas o usuário administrador possa ter acesso irrestrito à todos os relatórios| Médio | 
+|RNF-09| O sistema deve emitir uma mensagem de confirmação toda vez que os usuários usarem as funcionalidades registrar, alterar e deletar antes de prosseguir com a ação| Média |
+|RNF-10| O sistema deve permitir a opção de emitir os relatórios em PDF| Baixa | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
