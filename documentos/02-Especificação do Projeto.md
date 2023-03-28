@@ -68,9 +68,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-02| O sistema deve permitir que todos os usuários cadastrados tenham acesso ao aplicativo pelo login e senha | ALTA |
 |RF-03| O sistema deve permitir registrar, alterar, visualizar e deletar os compromissos com horários, datas e descrição nas agendas dentro dos perfis dos usuários| Alta |
 |RF-04| O sistema deve permitir aos usuários emitir relatórios sobre a agenda de compromissos   | ALTA |
-|RF-05| O sistema deve permitir que os beneficiários dos projetos (vítimas e seus dependentes) sejam cadastrados| Média |
-|RF-07| O sistema deve permitir registrar e visualizar os recursos (doações) | ALTA |
+|RF-05| O sistema deve permitir registrar e visualizar os recursos (doações) | ALTA |
 |RF-06| O sistema deve permitir emitir reletórios sobre os recursos (doações) | ALTA |
+|RF-07| O sistema deve permitir que os beneficiários dos projetos (vítimas e seus dependentes) sejam cadastrados| Média |
 
 
 
