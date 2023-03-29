@@ -26,6 +26,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 **História:** Paulista de família humilde, casada e mãe de dois filhos. Até então dedicada a auxiliar no desenvolvimento de pessoas, dentro do contexto profissional. Compilada a trazer seu conhecimento e experiências para ajudar mulheres, após sofrer o trauma de perder uma amiga vítima de violência.
 
 **Motivações:** Auxiliar mulheres com orientações profissionais, para que não se sujeitem a quaisquer tipo de violência, ou orientando vítimas para que tenham um recomeço.
+
 **Frustrações:** A resistência de mulheres que passaram por uma experiência traumática, por vergonha, medo ou desinformação, pela falta de uma rede de apoio confiável.
 
 
