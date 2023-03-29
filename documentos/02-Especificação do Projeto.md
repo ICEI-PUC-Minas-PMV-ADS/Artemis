@@ -9,10 +9,26 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-|    Sara Maria Ferreira Alves | Informações:                       |                                        |
-|--------------------|------------------------------------|----------------------------------------|
-|![SaraMaria1](https://user-images.githubusercontent.com/128602472/227969457-a1ef776a-2f37-4caa-abc8-d5d718c0e14f.jpg)| **Idade:** 54 anos <br> **Ocupação:** Psicóloga|**Aplicativos:**<br><ul>● Instagram <br>● Linkedin <br>● WhatsApp <br></ul>|
-|**Motivações:**<br><ul>● Auxiliar psicologicamente vítimas de violência. <br> </ul>|**Frustrações:**<br><ul>● Dificuldade em encontrar quem precise de auxílio <br>.   |**Hobbies/Histórias:**<br><ul>● Dançar <br>● Ler livros <br>● Viajar com a família
+![SaraMaria2](https://user-images.githubusercontent.com/128602472/228576983-a43d0673-e65d-4e8c-b73f-c9982aba701f.jpg)
+
+**Nome:** Sara Maria Ferreira Alves 
+
+**Sexo:** Feminino, Mulher Cis
+
+**Idade:** 54 anos
+
+**Localização:** São Paulo / SP
+
+**Ocupação:**  Psicóloga social, atuando no aspecto profissional das interações humanas.
+
+**Uma frase:** “Novas folhas, novas flores, na infinita bênção do recomeço.”
+
+**História:** Paulista de família humilde, casada e mãe de dois filhos. Até então dedicada a auxiliar no desenvolvimento de pessoas, dentro do contexto profissional. Compilada a trazer seu conhecimento e experiências para ajudar mulheres, após sofrer o trauma de perder uma amiga vítima de violência.
+
+**Motivações:** Auxiliar mulheres com orientações profissionais, para que não se sujeitem a quaisquer tipo de violência, ou orientando vítimas para que tenham um recomeço.
+**Frustrações:** A resistência de mulheres que passaram por uma experiência traumática, por vergonha, medo ou desinformação, pela falta de uma rede de apoio confiável.
+
+
  
 ![Adm](https://mundonegro.inf.br/wp-content/uploads/2019/03/Jorge-Bispo_1588_Corte.jpg)
  
