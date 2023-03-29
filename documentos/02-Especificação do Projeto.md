@@ -61,11 +61,15 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 |    EU COMO            |QUERO/DESEJO                         |PARA                         |
 |----------------|-------------------------------|-----------------------------|
-|Psicóloga| Ser direcionada com agilidade a pessoas que necessitam de auxílio profissional emocional/psicológico| Ser eficaz no processo de recuperação das vítimas |
-|Psicóloga| Ser direcionada com agilidade a pessoas que necessitam de auxílio profissional emocional/psicológico| Ser eficaz no processo de recuperação das vítimas |
-|Psicóloga| Ser direcionada com agilidade a pessoas que necessitam de auxílio profissional emocional/psicológico| Ser eficaz no processo de recuperação das vítimas |
-|Administradora|Permitir acessos e facilitar a organização das atividades dos outros voluntários da ONG em suas funções     | Para que o trabalho seja aplicado de forma mais efetiva e rápida, beneficiando voluntários e dando melhor suporte às vítimas            |
-|        |       
+|Administradora| Ser a única a poder cadastrar os usuários| Garantir um controle sobre o acesso à plataforma e administrar melhor a minha equipe |
+|Administradora| Ser a única a ter acesso a todos os relatórios | Ter acesso rápido as informações que influenciam a minha tomada de decisão |
+|Volúntario| Ter login e senha| Garantir  o acesso ao perfil no aplicativo da organização |
+|Volúntario| Poder registrar, alterar, visualizar e deletar os meus compromissos na agenda do meu perfil| Garantir um controle sobre a minha rotina|
+|Volúntario| Emitir relatórios | Garantir que as informaçõe da organização sejam armazenadas e fáceis de serem acessadas |
+|Captalizador de recursos| Poder registrar e visualizar os recursos (doações) | Para disponibilizar os recursos o mais rápido possível às vítimas beneficiárias do projeto social |
+|Beneficiária do projeto| Ser cadastrada | Para garantir que eu receba o atendimento pela organização |
+|Psicológa| Registrar as minhas consultas na agenda e realizar relatórios sobre o estado psicológico das minhas pacientes |  Garantir um controle da minha rotina|
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
