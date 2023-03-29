@@ -17,9 +17,9 @@ TECMUNDO. Frida: a tecnologia contra a violência doméstica. **TecMundo**, 15 n
 
 DE ROSA, Marcus. Plataforma utiliza inteligência artificial para receber denúncias de violência doméstica. **Jornal da USP**, 3 jun. 2019. Disponível em: <https://jornal.usp.br/atualidades/plataforma-utiliza-inteligencia-artificial-para-receber-denuncias-de-violencia-domestica/>. Acesso em: 29 mar. 2023.
 
-Fonte Segura - Fórum Brasileiro de Segurança Pública. MAIS DE 18 MILHÕES DE MULHERES SOFRERAM ALGUMA FORMA DE VIOLÊNCIA EM 2022, MOSTRA PESQUISA DO FÓRUM BRASILEIRO DE SEGURANÇA PÚBLICA, 3 de março de 2023. Disponível em: <https://fontesegura.forumseguranca.org.br/mais-de-18-milhoes-de-mulheres-sofreram-alguma-forma-de-violencia-em-2022-mostra-pesquisa-do-forum-brasileiro-de-seguranca-publica/>
+FONTE SEGURA. Mais de 18 milhões de mulheres sofreram alguma forma de violência em 2022, mostra pesquisa do Fórum Brasileiro de Segurança Pública. **Fórum Brasileiro de Segurança Pública**, 3 mar. 2023. Disponível em: <https://fontesegura.forumseguranca.org.br/mais-de-18-milhoes-de-mulheres-sofreram-alguma-forma-de-violencia-em-2022-mostra-pesquisa-do-forum-brasileiro-de-seguranca-publica/>. Acesso em: 29 mar. 2023.
 
-ONU Muheres. Gender-related killings of women and girls (femicide/feminicide), 24 de novembro de 2022. Disponível em: <https://www.unwomen.org/sites/default/files/2022-11/Gender-related-killings-of-women-and-girls-improving-data-to-improve-responses-to-femicide-feminicide-en.pdf>
+ONU Mulheres. Gender-related killings of women and girls (femicide/feminicide), 24 de novembro de 2022. Disponível em: <https://www.unwomen.org/sites/default/files/2022-11/Gender-related-killings-of-women-and-girls-improving-data-to-improve-responses-to-femicide-feminicide-en.pdf>
 
 Fórum Brasileiro de Segurança Pública. Violência contra mulheres em 2021. Disponível em: <https://forumseguranca.org.br/wp-content/uploads/2022/03/violencia-contra-mulher-2021-v5.pdf>
 
