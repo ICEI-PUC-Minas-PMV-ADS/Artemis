@@ -2,9 +2,9 @@
 
 Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho.
 
-BBC News. Parentes cometem 56% dos feminicídios no mundo, alerta ONU. BBC News Brasil, 25 novembro 2022. Disponível em: <https://www.bbc.com/portuguese/geral-63744407>
+BBC. Parentes cometem 56% dos feminicídios no mundo, alerta ONU. **BBC News Brasil**, 25 novembro 2022. Disponível em: <https://www.bbc.com/portuguese/geral-63744407>
 
-ONU. ONU: 25% das mulheres a partir de 15 anos são vítimas da violência de gênero. ONU News, 9 Março 2021. Disponível em: <https://news.un.org/pt/story/2021/03/1743912>
+ONU. 25% das mulheres a partir de 15 anos são vítimas da violência de gênero. **ONU News**, 9 Março 2021. Disponível em: <https://news.un.org/pt/story/2021/03/1743912>
 
 Dossies Instituto Patrícia Galvao. Por dia, quase 51 mil mulheres sofreram violência no Brasil em 2022. Violêncai contra a mulher em dados, 2022. Disponível em: <https://dossies.agenciapatriciagalvao.org.br/violencia-em-dados/por-dia-quase-51-mil-mulheres-sofreram-violencia-no-brasil-em-2022/>
 
