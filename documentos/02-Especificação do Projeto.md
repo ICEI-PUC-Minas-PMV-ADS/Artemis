@@ -2,11 +2,6 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
-
-
 ## Personas
 
 ![SaraMaria2](https://user-images.githubusercontent.com/128602472/228576983-a43d0673-e65d-4e8c-b73f-c9982aba701f.jpg)
@@ -53,36 +48,20 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 
 
-
-
 ## Histórias de Usuários
-
-
 
 |    EU COMO            |QUERO/DESEJO                         |PARA                         |
 |----------------|-------------------------------|-----------------------------|
 |Administradora| Ser a única a poder cadastrar os usuários| Garantir um controle sobre o acesso à plataforma e administrar melhor a minha equipe |
 |Administradora| Ser a única a ter acesso a todos os relatórios | Ter acesso rápido as informações que influenciam a minha tomada de decisão |
-|Volúntario| Ter login e senha| Garantir  o acesso ao perfil no aplicativo da organização |
-|Volúntario| Poder registrar, alterar, visualizar e deletar os meus compromissos na agenda do meu perfil| Garantir um controle sobre a minha rotina|
-|Volúntario| Emitir relatórios | Garantir que as informaçõe da organização sejam armazenadas e fáceis de serem acessadas |
+|Volúntario| Ter login e senha| Garantir o acesso ao meu perfil no aplicativo da organização e poder realizar as minha tarefas diárias |
+|Volúntario| Poder registrar, alterar, visualizar e deletar os meus compromissos na agenda do meu perfil| Garantir um controle sobre os meus compromissos|
+|Volúntario| Emitir relatórios | Garantir que as informações da organização sejam armazenadas e fáceis de serem acessadas |
 |Captalizador de recursos| Poder registrar e visualizar os recursos (doações) | Para disponibilizar os recursos o mais rápido possível às vítimas beneficiárias do projeto social |
-|Beneficiária do projeto| Ser cadastrada | Para garantir que eu receba o atendimento pela organização |
+|Beneficiária do projeto| Ser cadastrada no aplicativo | Para garantir que eu receba o atendimento pela organização |
 |Psicológa| Registrar as minhas consultas na agenda e realizar relatórios sobre o estado psicológico das minhas pacientes |  Garantir um controle da minha rotina|
 
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
 ## Requisitos
-
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
 ### Requisitos Funcionais
 
@@ -90,11 +69,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-01| O sistema deve permitir que todos os usuários tenham perfis | ALTA | 
 |RF-02| O sistema deve permitir que todos os usuários cadastrados tenham acesso ao aplicativo pelo login e senha | ALTA |
-|RF-03| O sistema deve permitir registrar, alterar, visualizar e deletar os compromissos com horários, datas e descrição nas agendas dentro dos perfis dos usuários| Alta |
+|RF-03| O sistema deve permitir registrar, alterar, visualizar e deletar os compromissos com horários, datas e descrição nas agendas dentro dos perfis dos usuários| ALTA |
 |RF-04| O sistema deve permitir aos usuários emitir relatórios sobre a agenda de compromissos   | ALTA |
 |RF-05| O sistema deve permitir registrar e visualizar os recursos (doações) | ALTA |
 |RF-06| O sistema deve permitir emitir reletórios sobre os recursos (doações) | ALTA |
-|RF-07| O sistema deve permitir que os beneficiários dos projetos (vítimas e seus dependentes) sejam cadastrados| Média |
+|RF-07| O sistema deve permitir que os beneficiários dos projetos (vítimas e seus dependentes) sejam cadastrados| MÉDIO |
 
 
 
@@ -102,31 +81,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-01| O sistema deve ser uma aplicação web responsiva| Alta | 
-|RNF-02| O sistema deve garantir que os dados sobre os beneficiários dos projetos, os colaboradores e o administrador sejam armazenados dentros nas normas da LGPD |    Alta |
-|RNF-03| O sistema deve permitir que apenas o usuário administrador possa cadastrar os colaboradores e beneficiários dos projetos| Alta | 
-|RNF-04| O sistema não deve permitir o acesso dos beneficiários dos projetos à aplicação| Alta |
-|RNF-05| O sistema deve emitir uma mensagem de erro caso a senha e/ou login não estarem corretas| Alta |
-|RNF-06| O sistema deve emitir uma mensagem de "Este usuário já existe" caso o colaborador ou beneficiário do projeto já estarem cadastrados no aplicativo| Alta | 
-|RNF-07| O sistema deve permitir que apenas o captalizador de recursos e o usuário administrador possam registrar, alterar, visualizar e emitir relatórios sobre os recursos (doações)| Médio |
-|RNF-08| O sistema deve permitir que apenas o usuário administrador possa ter acesso irrestrito à todos os relatórios| Médio | 
-|RNF-09| O sistema deve emitir uma mensagem de confirmação toda vez que os usuários usarem as funcionalidades registrar, alterar e deletar antes de prosseguir com a ação| Média |
-|RNF-10| O sistema deve permitir a opção de emitir os relatórios em PDF| Baixa | 
+|RNF-01| O sistema deve ser uma aplicação web responsiva| ALTA | 
+|RNF-02| O sistema deve garantir que os dados sobre os beneficiários dos projetos, os colaboradores e o administrador sejam armazenados dentros nas normas da LGPD |    ALTA |
+|RNF-03| O sistema deve permitir que apenas o usuário administrador possa cadastrar os colaboradores e beneficiários dos projetos| ALTA | 
+|RNF-04| O sistema não deve permitir o acesso dos beneficiários dos projetos à aplicação| ALTA |
+|RNF-05| O sistema deve emitir uma mensagem de erro caso a senha e/ou login não estarem corretas| ALTA |
+|RNF-06| O sistema deve emitir uma mensagem de "Este usuário já existe" caso o colaborador ou beneficiário do projeto já estarem cadastrados no aplicativo| ALTA | 
+|RNF-07| O sistema deve permitir que apenas o captalizador de recursos e o usuário administrador possam registrar, alterar, visualizar e emitir relatórios sobre os recursos (doações)| MÉDIO |
+|RNF-08| O sistema deve permitir que apenas o usuário administrador possa ter acesso irrestrito à todos os relatórios| MÉDIO | 
+|RNF-09| O sistema deve emitir uma mensagem de confirmação toda vez que os usuários usarem as funcionalidades registrar, alterar e deletar antes de prosseguir com a ação| MÉDIO |
+|RNF-10| O sistema deve permitir a opção de emitir os relatórios em PDF| BAIXA | 
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
 
 ## Restrições
 
@@ -138,8 +103,3 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |02| Não pode ser desenvolvido um módulo de backend        |
 
 
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
