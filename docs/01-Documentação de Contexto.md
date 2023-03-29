@@ -11,8 +11,7 @@ O número de vítimas é muito grande, e os projetos socias que combatem a viol�
 
 ## Objetivos
 
-- Desenvolver uma solução tecnológica que facilita a gestão das tarefas  dos colaboradores de projetos sociais que combatem a violência doméstica
-- Contribuir na melhoria do suporte às vítimas
+- Desenvolver uma solução tecnológica que facilita a gestão das tarefas diárias dos colaboradores de projetos sociais que combatem a violência doméstica
 
 ## Justificativa
 
