@@ -5,6 +5,7 @@ Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvo
 BBC News. Parentes cometem 56% dos feminicídios no mundo, alerta ONU. BBC News Brasil, 25 novembro 2022. Disponível em: <https://www.bbc.com/portuguese/geral-63744407>
 
 ONU. ONU: 25% das mulheres a partir de 15 anos são vítimas da violência de gênero. ONU News, 9 Março 2021. Disponível em: <https://news.un.org/pt/story/2021/03/1743912>
+
 Dossies Instituto Patrícia Galvao. Por dia, quase 51 mil mulheres sofreram violência no Brasil em 2022. Violêncai contra a mulher em dados, 2022. Disponível em: <https://dossies.agenciapatriciagalvao.org.br/violencia-em-dados/por-dia-quase-51-mil-mulheres-sofreram-violencia-no-brasil-em-2022/>
 
 Dossies Instituto Patrícia Galvao. Visível e invisível: a vitimização de mulheres no Brasil 4ª Edição. Data Folha e Fórum Brasileiro de Segurança Pública, 2023.  Disponível em: <https://dossies.agenciapatriciagalvao.org.br/dados-e-fontes/pesquisa/visivel-e-invisivel-a-vitimizacao-de-mulheres-no-brasil-4a-edicao-datafolha-fbsp-2023/>
