@@ -9,6 +9,14 @@ Dossies Instituto Patrícia Galvao. Por dia, quase 51 mil mulheres sofreram viol
 
 Dossies Instituto Patrícia Galvao. Visível e invisível: a vitimização de mulheres no Brasil 4ª Edição. Data Folha e Fórum Brasileiro de Segurança Pública, 2023.  Disponível em: <https://dossies.agenciapatriciagalvao.org.br/dados-e-fontes/pesquisa/visivel-e-invisivel-a-vitimizacao-de-mulheres-no-brasil-4a-edicao-datafolha-fbsp-2023/>
 
+TAVARES, Paula. Roberta, SALOMONE. Pandemia acelerou uso da tecnologia no combate à violência contra a mulher. Dossies Instituto Patrícia Galvao, 7 de janeiro de 2021. Disponível em: <https://agenciapatriciagalvao.org.br/violencia/pandemia-acelerou-uso-da-tecnologia-no-combate-a-violencia-contra-a-mulher-por-paula-tavares-e-roberta-salomone/>
+
+PICCOLOTTO, Letícia. Tecnologia pode ser uma grande aliada no combate à violência contra meninas e mulheres. Olhar Digital, 13 de Setembro de 2021. Disponível em: <https://olhardigital.com.br/2021/09/13/colunistas/tecnologia-pode-ser-uma-grande-aliada-no-combate-a-violencia-contra-meninas-e-mulheres/>
+
+Tech Mundo. Frida: a tecnologia contra a violência doméstica. Tech Mundo, 13 de Novembro de 2021. Disponível em: <https://www.tecmundo.com.br/internet/228748-frida-tecnologia-violencia-domestica.htm>
+
+DE ROSA, Marcus. Plataforma utiliza inteligência artificial para receber denúncias de violência doméstica. Jornal da USP, 3 de Junho de 2019. Disponível em: <https://jornal.usp.br/atualidades/plataforma-utiliza-inteligencia-artificial-para-receber-denuncias-de-violencia-domestica/>
+
 Fonte Segura - Fórum Brasileiro de Segurança Pública. MAIS DE 18 MILHÕES DE MULHERES SOFRERAM ALGUMA FORMA DE VIOLÊNCIA EM 2022, MOSTRA PESQUISA DO FÓRUM BRASILEIRO DE SEGURANÇA PÚBLICA, 3 de março de 2023. Disponível em: <https://fontesegura.forumseguranca.org.br/mais-de-18-milhoes-de-mulheres-sofreram-alguma-forma-de-violencia-em-2022-mostra-pesquisa-do-forum-brasileiro-de-seguranca-publica/>
 
 ONU Muheres. Gender-related killings of women and girls (femicide/feminicide), 24 de novembro de 2022. Disponível em: <https://www.unwomen.org/sites/default/files/2022-11/Gender-related-killings-of-women-and-girls-improving-data-to-improve-responses-to-femicide-feminicide-en.pdf>
