@@ -57,10 +57,11 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+
 
 |    EU COMO            |QUERO/DESEJO                         |PARA                         |
 |----------------|-------------------------------|-----------------------------|
+|Psicóloga| Ser direcionada com agilidade a pessoas que necessitam de auxílio profissional emocional/psicológico| Ser eficaz no processo de recuperação das vítimas |
 |Administradora|Permitir acessos e facilitar a organização das atividades dos outros voluntários da ONG em suas funções            | Para que o trabalho seja aplicado de forma mais efetiva e rápida, beneficiando voluntários e dando melhor suporte às vítimas            |
 |        |       
 
