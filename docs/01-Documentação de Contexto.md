@@ -33,6 +33,9 @@ Com um mapeamento mais preciso sobre a violência percebeu que muitas mulheres, 
 - **Botão do pânico**
 - **Todos por uma**
 - **Projeto Glória**
+|    EU COMO            |QUERO/DESEJO                         |PARA                         |
+|----------------|-------------------------------|-----------------------------|
+|Administradora| Ter uma gestão segura dos voluntários e beneficiários do projeto| Garantir a privadidade dos colaboradores e das vítimas |
 
 ## Público-Alvo
 
