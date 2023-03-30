@@ -22,11 +22,11 @@ O Brasil iniciou o uso da tecnologia no combate a este tipo violência com a dem
 
 Com um mapeamento mais preciso sobre a violência percebeu que muitas mulheres, principalmente de baixa renda e moradoras de zona rural, comunidades periféricas, indígenas e quilombolas apresentaram uma grande dificuldade em ter o acesso ao canal de denúncia. Além disso, com um grande número de vítimas muitos projetos sociais enfrentam uma dificuldade em atender com rapidez. Com isso, percebe-se uma necessidade no desenvolvimento de uma solução tecnológica em que agiliza os atendimentos e que facilita o trabalho dos voluntários dos projetos sociais para aprimorar os sistemas de repostas e apoio às vítimas.
 
-## Aplicativos relacionados
-- Frida
-- Botão do pânico
-- Todos por uma
-- Projeto Glória
+## Soluções Relacionadas
+- **Frida**
+- **Botão do pânico**
+- **Todos por uma**
+- **Projeto Glória**
 
 ## Público-Alvo
 
