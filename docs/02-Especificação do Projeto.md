@@ -87,7 +87,7 @@ A partir da descrição do público-alvo do Documento de Contexto foi feito um a
 |RNF-05| O sistema não deve permitir o acesso dos beneficiários dos projetos à aplicação| ALTA |
 |RNF-06| O sistema deve permitir que apenas o captalizador de recursos e o usuário administrador possam registrar, alterar, visualizar e emitir relatórios sobre os recursos (doações)| MÉDIO |
 |RNF-07| O sistema deve permitir que apenas o usuário administrador possa ter acesso irrestrito à todos os relatórios| MÉDIO | 
-|RNF-09| O sistema deve permitir a opção de emitir os relatórios em PDF| BAIXA | 
+|RNF-08| O sistema deve permitir a opção de emitir os relatórios em PDF| BAIXA | 
 
 
 ## Restrições
