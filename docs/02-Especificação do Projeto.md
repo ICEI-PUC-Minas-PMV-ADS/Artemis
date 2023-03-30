@@ -53,14 +53,10 @@
 
 |    EU COMO            |QUERO/DESEJO                         |PARA                         |
 |----------------|-------------------------------|-----------------------------|
-|Administradora| Ser a única a poder cadastrar os usuários| Garantir um controle sobre o acesso à plataforma e administrar melhor a minha equipe |
-|Administradora| Ser a única a ter acesso a todos os relatórios | Ter acesso rápido as informações que influenciam a minha tomada de decisão |
-|Volúntario| Ter login e senha| Garantir o acesso ao meu perfil no aplicativo da organização e poder realizar as minha tarefas diárias |
-|Volúntario| Poder registrar, alterar, visualizar e deletar os meus compromissos na agenda do meu perfil| Garantir um controle sobre os meus compromissos|
-|Volúntario| Emitir relatórios | Garantir que as informações da organização sejam armazenadas e fáceis de serem acessadas |
-|Captalizador de recursos| Poder registrar e visualizar os recursos (doações) | Para disponibilizar os recursos o mais rápido possível às vítimas beneficiárias do projeto social |
-|Beneficiária do projeto| Ser cadastrada no aplicativo | Para garantir que eu receba o atendimento pela organização |
-|Psicológa| Registrar as minhas consultas na agenda e realizar relatórios sobre o estado psicológico das minhas pacientes |  Garantir um controle da minha rotina|
+|Administradora| Ter uma gestão segura dos voluntários e beneficiários do projeto| Garantir garantir a privadidade dos colaboradores e das vítimas |
+|Volúntario| Poder gerenciar as minhas tarefas diárias e compromisso| Garantir um controle da minha rotina e das pessoas que eu atendo |
+|Captalizador de recursos| Ter um controle das informações sobres os recursos (doações) | Para disponibilizar os recursos o mais rápido possível às vítimas beneficiárias do projeto social |
+|Psicológa| Organizar as minhas tarefas diárias e saber as consultas das minhas pacientes |  Garantir um controle da minha rotina e privacidade das pessoas atendidas por mim|
 
 ## Requisitos
 
