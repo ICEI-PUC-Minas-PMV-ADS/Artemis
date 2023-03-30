@@ -53,10 +53,11 @@
 
 |    EU COMO            |QUERO/DESEJO                         |PARA                         |
 |----------------|-------------------------------|-----------------------------|
-|Administradora| Ter uma gestão segura dos voluntários e beneficiários do projeto| Garantir garantir a privadidade dos colaboradores e das vítimas |
-|Volúntario| Poder gerenciar as minhas tarefas diárias e compromisso| Garantir um controle da minha rotina e das pessoas que eu atendo |
+|Administradora| Ter uma gestão segura dos voluntários e beneficiários do projeto| Garantir a privadidade dos colaboradores e das vítimas |
+|Administradora| Ter acesso às informações de todos os setores do projeto e poder gerenciar as minhas tarefas diárias| Poder a administrar a minha rotina e ter uma tomada de decisão mais precisa e rápida |
+|Volúntario| Poder gerenciar as minhas tarefas diárias e meus compromissos| Garantir um controle da minha rotina e das pessoas que eu atendo |
 |Captalizador de recursos| Ter um controle das informações sobres os recursos (doações) | Para disponibilizar os recursos o mais rápido possível às vítimas beneficiárias do projeto social |
-|Psicológa| Organizar as minhas tarefas diárias e saber as consultas das minhas pacientes |  Garantir um controle da minha rotina e privacidade das pessoas atendidas por mim|
+|Psicológa| Ter uma gestão das minhas atividades diárias e organizar as consultas das minhas pacientes | Garantir um controle da minha rotina e privacidade das pessoas atendidas por mim|
 
 ## Requisitos
 
@@ -65,7 +66,6 @@
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-01| O sistema deve permitir que todos os usuários tenham perfis | ALTA | 
-|RF-02| O sistema deve permitir que todos os usuários cadastrados tenham acesso ao aplicativo pelo login e senha | ALTA |
 |RF-03| O sistema deve permitir registrar, alterar, visualizar e deletar os compromissos com horários, datas e descrição nas agendas dentro dos perfis dos usuários| ALTA |
 |RF-04| O sistema deve permitir aos usuários emitir relatórios sobre a agenda de compromissos   | ALTA |
 |RF-05| O sistema deve permitir registrar e visualizar os recursos (doações) | ALTA |
@@ -80,14 +80,12 @@
 |-------|-------------------------|----|
 |RNF-01| O sistema deve ser uma aplicação web responsiva| ALTA | 
 |RNF-02| O sistema deve garantir que os dados sobre os beneficiários dos projetos, os colaboradores e o administrador sejam armazenados dentros nas normas da LGPD |    ALTA |
-|RNF-03| O sistema deve permitir que apenas o usuário administrador possa cadastrar os colaboradores e beneficiários dos projetos| ALTA | 
-|RNF-04| O sistema não deve permitir o acesso dos beneficiários dos projetos à aplicação| ALTA |
-|RNF-05| O sistema deve emitir uma mensagem de erro caso a senha e/ou login não estarem corretas| ALTA |
-|RNF-06| O sistema deve emitir uma mensagem de "Este usuário já existe" caso o colaborador ou beneficiário do projeto já estarem cadastrados no aplicativo| ALTA | 
-|RNF-07| O sistema deve permitir que apenas o captalizador de recursos e o usuário administrador possam registrar, alterar, visualizar e emitir relatórios sobre os recursos (doações)| MÉDIO |
-|RNF-08| O sistema deve permitir que apenas o usuário administrador possa ter acesso irrestrito à todos os relatórios| MÉDIO | 
-|RNF-09| O sistema deve emitir uma mensagem de confirmação toda vez que os usuários usarem as funcionalidades registrar, alterar e deletar antes de prosseguir com a ação| MÉDIO |
-|RNF-10| O sistema deve permitir a opção de emitir os relatórios em PDF| BAIXA | 
+|RFN-03| O sistema deve permitir que todos os usuários cadastrados tenham acesso ao aplicativo pelo login e senha | ALTA |
+|RNF-04| O sistema deve permitir que apenas o usuário administrador possa cadastrar os colaboradores e beneficiários dos projetos| ALTA |
+|RNF-05| O sistema não deve permitir o acesso dos beneficiários dos projetos à aplicação| ALTA |
+|RNF-06| O sistema deve permitir que apenas o captalizador de recursos e o usuário administrador possam registrar, alterar, visualizar e emitir relatórios sobre os recursos (doações)| MÉDIO |
+|RNF-07| O sistema deve permitir que apenas o usuário administrador possa ter acesso irrestrito à todos os relatórios| MÉDIO | 
+|RNF-09| O sistema deve permitir a opção de emitir os relatórios em PDF| BAIXA | 
 
 
 ## Restrições
@@ -98,4 +96,4 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
-
+|03| O prjeto deve ser entregue pelo Github                |
