@@ -3,7 +3,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-As personas foram inspiradas na descrição do público-alvo do Documento de Contexto
+A partir da descrição do público-alvo do Documento de Contexto foi feito um aperfeiçoamento do ponto de vista dos usuários da aplicação através dos Perfis das Personas, Histórias de Usuários, Levantamento de Requisitos e Restrições. O resultado esclarece quais são as necessidades dos usuários e os motivos nos quais elas são tão importantes.
 
 ## Personas
 
