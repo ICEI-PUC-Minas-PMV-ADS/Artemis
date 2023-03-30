@@ -3,6 +3,8 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
+As personas foram inspiradas na descrição do público-alvo do Documento de Contexto
+
 ## Personas
 
 ![SaraMaria2](https://user-images.githubusercontent.com/128602472/228576983-a43d0673-e65d-4e8c-b73f-c9982aba701f.jpg)
