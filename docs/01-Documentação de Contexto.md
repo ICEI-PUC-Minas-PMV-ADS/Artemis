@@ -33,7 +33,7 @@ Desvantagem  : Não é software de gestão de tarefas e sim um perfil no whatsap
 
 
 - **Botão do pânico**
-- 
+ 
  O que faz   | É um serviço disponibilizado às pessoas que possuem medidas protetivas por violência doméstica. Quando a vítima aciona o botão o dispositivo alerta a polícia militar que o agressor está violando a medida e uma viatura é encaminhada para o local.
  
  
@@ -43,7 +43,7 @@ Desvantagem  : Não é software de gestão de tarefas e sim um perfil no whatsap
  Desvantagem  : A vítima precisa ter um aparelho com o aplicativo instalado e não existe nenhuma conexão com projetos sociais que combatem a violência doméstica
   
 - **Mete a Colher**
-- 
+
  O que faz   | Conecta vítimas de violência doméstica a voluntárias dispostas a ajudar com apoio emocional (desabafos e conselhos), orientação jurídica (informações sobre leis e denúncias) e inserção no mercado de trabalho (para ajudar mulheres que precisam conquistar a independência financeira para se afastar dos parceiros)
  
  
@@ -53,7 +53,7 @@ Desvantagem  : Não é software de gestão de tarefas e sim um perfil no whatsap
  Desvantagem  : O foco está no apoio emocional mas não é um aplicativo que auxilia na gestão de tarefas dos voluntários
  
 - **Projeto Glória**
-- 
+ 
  O que faz   | É uma inteligência artificial que analisa e coleta dados sobre a violência doméstica
  
  
