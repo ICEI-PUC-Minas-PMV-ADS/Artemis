@@ -23,19 +23,16 @@ O Brasil iniciou o uso da tecnologia no combate a este tipo violência com a dem
 Com um mapeamento mais preciso sobre a violência percebeu que muitas mulheres, principalmente de baixa renda e moradoras de zona rural, comunidades periféricas, indígenas e quilombolas apresentaram uma grande dificuldade em ter o acesso ao canal de denúncia. Além disso, com um grande número de vítimas muitos projetos sociais enfrentam uma dificuldade em atender com rapidez. Com isso, percebe-se uma necessidade no desenvolvimento de uma solução tecnológica em que agiliza os atendimentos e que facilita o trabalho dos voluntários dos projetos sociais para aprimorar os sistemas de repostas e apoio às vítimas.
 
 ## Soluções Relacionadas
-- **Frida**|    O que faz   |  Uma assistente virtual ue realiza atendimento imediato à vítima – acolhe a denúncia, esclarece dúvidas, faz uma avaliação preliminar do risco e aciona a polícia em situações de flagrante ou risco, inclusive enviando uma viatura  |                                              
-|---------------- --------------|-----------------------------|
-|Vantagem                      |Desvantagem                  |
-|-------------------------------|-----------------------------|
-|A vítima recebe respostas imediatas|  Não é software de gestão de tarefas e sim um perfil no whatsapp|
+- **Frida** 
+O que faz   |  Uma assistente virtual ue realiza atendimento imediato à vítima – acolhe a denúncia, esclarece dúvidas, faz uma avaliação preliminar do risco e aciona a polícia em situações de flagrante ou risco, inclusive enviando uma viatura                                          
+Vantagem : A vítima recebe respostas imediatas
+Desvantagem  : Não é software de gestão de tarefas e sim um perfil no whatsapp
 
 
 - **Botão do pânico**
 - **Todos por uma**
 - **Projeto Glória**
-|    EU COMO            |QUERO/DESEJO                         |PARA                         |
-|----------------|-------------------------------|-----------------------------|
-|Administradora| Ter uma gestão segura dos voluntários e beneficiários do projeto| Garantir a privadidade dos colaboradores e das vítimas |
+
 
 ## Público-Alvo
 
