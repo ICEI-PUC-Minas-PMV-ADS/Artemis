@@ -24,6 +24,13 @@ Com um mapeamento mais preciso sobre a violência percebeu que muitas mulheres, 
 
 ## Soluções Relacionadas
 - **Frida**
+|    O que faz   |  Uma assistente virtual ue realiza atendimento imediato à vítima – acolhe a denúncia, esclarece dúvidas, faz uma avaliação preliminar do risco e aciona a polícia em situações de flagrante ou risco, inclusive enviando uma viatura  |                                              
+|---------------- --------------|-----------------------------|
+ |Vantagem                      |Desvantagem                  |
+|-------------------------------|-----------------------------|
+|A vítima recebe respostas imediatas|  Não é software de gestão de tarefas e sim um perfil no whatsapp|
+
+
 - **Botão do pânico**
 - **Todos por uma**
 - **Projeto Glória**
