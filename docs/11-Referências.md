@@ -20,7 +20,7 @@ DE ROSA, Marcus. Plataforma utiliza inteligência artificial para receber denún
 
 FONTE SEGURA. Mais de 18 milhões de mulheres sofreram alguma forma de violência em 2022, mostra pesquisa do Fórum Brasileiro de Segurança Pública. **Fórum Brasileiro de Segurança Pública**, 3 mar. 2023. Disponível em: <https://fontesegura.forumseguranca.org.br/mais-de-18-milhoes-de-mulheres-sofreram-alguma-forma-de-violencia-em-2022-mostra-pesquisa-do-forum-brasileiro-de-seguranca-publica/>. Acesso em: 29 mar. 2023.
 
-ONU Mulheres. Gender-related killings of women and girls (femicide/feminicide), 24 nov. 2022. Disponível em: <https://www.unwomen.org/sites/default/files/2022-11/Gender-related-killings-of-women-and-girls-improving-data-to-improve-responses-to-femicide-feminicide-en.pdf>. Acesso em: 28 mar. 2023.
+ONU Mulheres. Gender-related killings of women and girls (femicide/feminicide). **ONU Mulheres**, 24 nov. 2022. Disponível em: <https://www.unwomen.org/sites/default/files/2022-11/Gender-related-killings-of-women-and-girls-improving-data-to-improve-responses-to-femicide-feminicide-en.pdf>. Acesso em: 28 mar. 2023.
 
 FÓRUM BRASILEIRO DE SEGURANÇA PÚBLICA. Violência contra mulheres em 2021. **Fórum Brasileiro de Segurança Pública**, 2021. Disponível em: <https://forumseguranca.org.br/wp-content/uploads/2022/03/violencia-contra-mulher-2021-v5.pdf>. Acesso em: 30 mar. 2023.
 
