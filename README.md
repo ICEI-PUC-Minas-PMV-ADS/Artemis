@@ -1,10 +1,10 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`Análise e desonvolvimento de Sistemas`
 
-`DISCIPLINA`
+`1º Eixo`
 
-`SEMESTRE`
+`1º SEMESTRE`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
@@ -13,11 +13,11 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Jacques Junio Drumond Abreu
 * Amanda Goncalves Gomes
 * Aislan Madison Bicalho
-* Nome completo do aluno 4
+* Monique Moura Freitas
 
 ## Orientador
 
-* Nome completo do professor 1
+* Marcos Kutova
 
 ## Instruções de utilização
 
