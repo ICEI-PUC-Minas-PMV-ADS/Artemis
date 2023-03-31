@@ -52,6 +52,19 @@ A partir da descrição do público-alvo do Documento de Contexto foi feito um a
 
 ![Persona3](https://user-images.githubusercontent.com/128602472/229170975-21a3019a-cee1-42d2-a05d-19b247d99232.jpg)
 
+**Nome:** Rafaela Borges Silveira
+
+**Sexo:** Feminino, Mulher Cis
+
+**Idade:** 31 anos
+
+**Localização:** Belo Horizonte, Minas Gerais
+
+**Ocupação:** Assistente social da prefeitura de Belo Horizonte e voluntária como captalizadora de recursos em uma ONG de suporte a mulheres que sofreram violência doméstica.
+
+**Uma frase:** ”Eu não estou aceitando as coisas que eu não posso mudar, estou mudando as coisas que eu não posso aceitar”.
+
+**História:** Vítima de violência doméstica aos de 17 anos, por um ex-namorado, Rafaela achou que sua situação não tinha solução, até ser resgatada por uma assistente social. A partir disso, deu continuidade a seus estudos e decidiu retribuir o suporte que lhe foi prestado. Atualmente casada, é mãe de uma menina.
 
 
 
