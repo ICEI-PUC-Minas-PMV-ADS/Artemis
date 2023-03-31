@@ -24,7 +24,7 @@ A partir da descrição do público-alvo do Documento de Contexto foi feito um a
 
 **Motivações:** Auxiliar mulheres com orientações profissionais, para que não se sujeitem a quaisquer tipo de violência, ou orientando vítimas para que tenham um recomeço.
 
-**Frustrações:** A falta de uma aplicação para direcionamento e organização no atendimento as vítimas.
+**Frustrações:** A falta de uma solução para direcionamento e organização no atendimento as vítimas.
 
 
  ![Persona 22](https://user-images.githubusercontent.com/128602472/229167298-d983987c-bd1d-430a-8f54-b09d832ee35f.jpg)
@@ -66,7 +66,7 @@ A partir da descrição do público-alvo do Documento de Contexto foi feito um a
 
 **Motivações:** Auxiliar financeiramente, através de doações, patrocínios e incentivos públicos, projetos e voluntários que zelam pelo bem estar, saúde e recuperação de vítimas de violência doméstica.
 
-**Frustrações:** A falta de uma aplicação para gerir, captar e direcionar os valores recebidos para manutenção de projetos sociais.
+**Frustrações:** A falta de uma solução para gerir, captar e direcionar os valores recebidos para manutenção de projetos sociais.
 
 
 ## Histórias de Usuários
