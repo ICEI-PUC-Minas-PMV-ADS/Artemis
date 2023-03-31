@@ -25,7 +25,7 @@ A partir da descrição do público-alvo do Documento de Contexto foi feito um a
 
 **Motivações:** Auxiliar mulheres com orientações profissionais, para que não se sujeitem a quaisquer tipo de violência, ou orientando vítimas para que tenham um recomeço.
 
-**Frustrações:** A resistência de mulheres que passaram por uma experiência traumática, por vergonha, medo ou desinformação, pela falta de uma rede de apoio confiável.
+**Frustrações:** A falta de uma aplicação para direcionamento e organização no atendimento as vítimas.
 
 
  ![Persona 22](https://user-images.githubusercontent.com/128602472/229167298-d983987c-bd1d-430a-8f54-b09d832ee35f.jpg)
@@ -48,6 +48,10 @@ A partir da descrição do público-alvo do Documento de Contexto foi feito um a
 **Motivações:** Ajudar mulheres que não tem suporte a saírem de ambientes de violência doméstica, o mais cedo possível, para que não passem anos em sofrimento como sua mãe. 
 
 **Frustrações**: Insuficiência de políticas públicas vindas do estado, para acolher e reintegrar essas mulheres, assim como uma plataforma web que atenda todas as suas necessidades para fazer seu papel na sociedade e que facilite o trabalho dela e de outros profissionais voluntários.
+
+
+![Persona3](https://user-images.githubusercontent.com/128602472/229170975-21a3019a-cee1-42d2-a05d-19b247d99232.jpg)
+
 
 
 
