@@ -58,7 +58,7 @@ A partir da descrição do público-alvo do Documento de Contexto foi feito um a
 
 **Localização:** Belo Horizonte, Minas Gerais
 
-**Ocupação:** Assistente social da prefeitura de Belo Horizonte e voluntária como captalizadora de recursos em uma ONG de suporte a mulheres que sofreram violência doméstica.
+**Ocupação:** Assistente social da prefeitura de Belo Horizonte e voluntária como capitalizadora de recursos em uma ONG de suporte a mulheres que sofreram violência doméstica.
 
 **Uma frase:** ”Eu não estou aceitando as coisas que eu não posso mudar, estou mudando as coisas que eu não posso aceitar”.
 
@@ -73,7 +73,7 @@ A partir da descrição do público-alvo do Documento de Contexto foi feito um a
 |Administradora| Ter uma gestão segura dos voluntários e beneficiários do projeto| Garantir a privadidade dos colaboradores e das vítimas |
 |Administradora| Ter acesso às informações de todos os setores do projeto e poder gerenciar as minhas tarefas diárias| Poder a administrar a minha rotina e ter uma tomada de decisão mais precisa e rápida |
 |Volúntario| Poder gerenciar as minhas tarefas diárias e meus compromissos| Garantir um controle da minha rotina e das pessoas que eu atendo |
-|Captalizadora de recursos| Ter um controle das informações sobres os recursos (doações) | Para disponibilizar os recursos o mais rápido possível às vítimas beneficiárias do projeto social |
+|Capitalizadora de recursos| Ter um controle das informações sobres os recursos (doações) | Para disponibilizar os recursos o mais rápido possível às vítimas beneficiárias do projeto social |
 |Psicológa| Ter uma gestão das minhas atividades diárias e organizar as consultas das minhas pacientes | Garantir um controle da minha rotina e privacidade das pessoas atendidas por mim|
 
 ## Requisitos
