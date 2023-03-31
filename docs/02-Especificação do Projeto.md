@@ -64,6 +64,9 @@ A partir da descrição do público-alvo do Documento de Contexto foi feito um a
 
 **História:** Vítima de violência doméstica aos de 17 anos, por um ex-namorado, Rafaela achou que sua situação não tinha solução, até ser resgatada por uma assistente social. A partir disso, deu continuidade a seus estudos e decidiu retribuir o suporte que lhe foi prestado. Atualmente casada, é mãe de uma menina.
 
+**Motivações:** Auxiliar financeiramente, através de doações, patrocínios e incentivos públicos, projetos e voluntários que zelam pelo bem estar, saúde e recuperação de vítimas de violência doméstica.
+
+**Frustrações:** A falta de uma aplicação para gerir, captar e direcionar os valores recebidos para manutenção de projetos sociais.
 
 
 ## Histórias de Usuários
