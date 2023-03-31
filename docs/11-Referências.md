@@ -44,4 +44,8 @@ BOND, Letycia. Plataforma para combater violência doméstica é lançada na Câ
 
 G1. Dependência financeira: obstáculo para mulheres denunciarem agressor. **Jornal Nacional**, 23 jan. 2019. Disponível em: <https://g1.globo.com/jornal-nacional/noticia/2019/01/23/dependencia-financeira-obstaculo-para-mulheres-denunciarem-agressor.ghtml>. Acesso em: 30 mar. 2023.
 
+PORTAL GELEDÉS. 15 autoras negras da literatura brasileira.**Portal Geledés**, 21 jul. 2016. Disponível em: <https://www.geledes.org.br/15-autoras-negras-da-literatura-brasileira/>. Acesso em: 30 mar. 2023.
+
+
+
 
