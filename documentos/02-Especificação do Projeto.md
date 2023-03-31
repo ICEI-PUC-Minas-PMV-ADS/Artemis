@@ -28,8 +28,8 @@ A partir da descrição do público-alvo do Documento de Contexto foi feito um a
 **Frustrações:** A resistência de mulheres que passaram por uma experiência traumática, por vergonha, medo ou desinformação, pela falta de uma rede de apoio confiável.
 
 
- 
-![Adm](https://mundonegro.inf.br/wp-content/uploads/2019/03/Jorge-Bispo_1588_Corte.jpg)
+ ![Persona 22](https://user-images.githubusercontent.com/128602472/229167298-d983987c-bd1d-430a-8f54-b09d832ee35f.jpg)
+
  
 **Nome:** Larissa Maria Machado 
  
