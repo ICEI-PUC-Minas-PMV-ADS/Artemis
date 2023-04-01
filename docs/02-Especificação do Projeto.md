@@ -75,7 +75,6 @@ A partir da descrição do público-alvo do Documento de Contexto foi feito um a
 |----------------|-------------------------------|-----------------------------|
 |Administradora| Ter uma gestão segura dos voluntários e beneficiários do projeto| Garantir a privadidade dos colaboradores e das vítimas |
 |Administradora| Ter acesso às informações de todos os setores do projeto e poder gerenciar as minhas tarefas diárias| Poder a administrar a minha rotina e ter uma tomada de decisão mais precisa e rápida |
-|Volúntario| Poder gerenciar as minhas tarefas diárias e meus compromissos| Garantir um controle da minha rotina e das pessoas que eu atendo |
 |Capitalizadora de recursos| Ter um controle das informações sobres os recursos (doações) | Para disponibilizar os recursos o mais rápido possível às vítimas beneficiárias do projeto social |
 |Psicológa| Ter uma gestão das minhas atividades diárias e organizar as consultas das minhas pacientes | Garantir um controle da minha rotina e privacidade das pessoas atendidas por mim|
 
@@ -88,9 +87,8 @@ A partir da descrição do público-alvo do Documento de Contexto foi feito um a
 |RF-01| O sistema deve permitir que todos os usuários tenham perfis | ALTA | 
 |RF-02| O sistema deve permitir registrar, alterar, visualizar e deletar os compromissos com horários, datas e descrição nas agendas dentro dos perfis dos usuários| ALTA |
 |RF-03| O sistema deve permitir aos usuários emitir relatórios sobre a agenda de compromissos   | ALTA |
-|RF-04| O sistema deve permitir registrar e visualizar os recursos (doações) | ALTA |
-|RF-05| O sistema deve permitir emitir reletórios sobre os recursos (doações) | ALTA |
-|RF-06| O sistema deve permitir que os beneficiários dos projetos (vítimas e seus dependentes) sejam cadastrados| MÉDIO |
+|RF-04| O sistema deve permitir registrar, visualizar e emitir reletórios sobre os recursos (doações) | ALTA |
+|RF-05| O sistema deve permitir que os beneficiários dos projetos (vítimas e seus dependentes) sejam cadastrados| MÉDIO |
 
 
 
