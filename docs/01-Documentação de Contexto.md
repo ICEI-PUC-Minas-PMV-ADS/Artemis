@@ -1,8 +1,8 @@
 # Introdução
 
-A violência doméstica é um problema social que está profundamente relacionando ao gênero. De acordo com um documento da ONU Mulheres (2021), o lugar mais perigoso para uma mulher ou menina é o próprio lar, a cada hora 5 mulheres foram assassinadas dentro de casa e quase 6 a cada 10 casos os parceiros ou um familiar eram os responsáveis. Apesar das mudanças nas últimas décadas relacionadas a desigualdade de gênero este mesmo relatório mostra que o total de feminicídios permaneceu alto (BBC, 2022). Conforme o chefe da OMS, Tedros Ghebreyesus, “a violência a mulheres é endêmica em todos os países e culturas e afeta milhões de mulheres e famílias. E a pandemia da Covid-19 só serviu para piorar a situação” (ONU, 2023).
+A violência doméstica é um problema social que está profundamente relacionando ao gênero. De acordo com um documento da ONU Mulheres (2021), o lugar mais perigoso para uma mulher ou menina é o próprio lar, a cada hora 5 mulheres foram assassinadas dentro de casa e quase 6 a cada 10 casos os parceiros ou um familiar eram os responsáveis. Apesar das mudanças nas últimas décadas relacionadas a desigualdade de gênero este mesmo relatório mostra que o total de feminicídios permaneceu alto (BBC, 2022). Conforme o chefe da OMS, Tedros Ghebreyesus, “a violência às mulheres é endêmica em todos os países e culturas e afeta milhões de mulheres e famílias. E a pandemia da Covid-19 só serviu para piorar a situação” (ONU, 2023).
 
-Infelizmente, o Brasil acompanha o brutal cenário internacional de violência relacionada ao gênero. De acordo com a série histórica da pesquisa Visível e invisível: a vitimização de mulheres no Brasil (2022), 2022 pelo DataFolha e Fórum Brasileiro de Segurança Pública, por dia quase 51 mil mulheres sofreram agressões físicas. Desse número 31 mil foram casos de violência doméstica. Isso significa que são mais de 1291 vítimas de violência doméstica por hora, o que resulta em mais 21 mulheres por minuto.
+Infelizmente, o Brasil acompanha o brutal cenário internacional de violência relacionada ao gênero. De acordo com a série histórica da pesquisa Visível e invisível: a vitimização de mulheres no Brasil (2022), pelo DataFolha e Fórum Brasileiro de Segurança Pública, em 2022 por dia quase 51 mil mulheres sofreram agressões físicas. Desse número 31 mil foram casos de violência doméstica. Isso significa que são mais de 1291 vítimas de violência doméstica por hora, o que resulta em mais 21 mulheres por minuto.
 
 Desafios no combate desse tipo de violência não se restringem apenas a uma precária conscientização da sociedade e leis com falhas mas envolve a falta de suporte aos projetos sociais que combatem essa violência. O apoio é insuficiente ou ausente à esses projetos por isso muitos não conseguem dar assistência com a agilidade necessária.
 
@@ -25,11 +25,11 @@ Com um mapeamento mais preciso sobre a violência percebeu que muitas mulheres, 
 ## Soluções Relacionadas
 - **Frida** 
 
-O que faz   |  Uma assistente virtual ue realiza atendimento imediato à vítima – acolhe a denúncia, esclarece dúvidas, faz uma avaliação preliminar do risco e aciona a polícia em situações de flagrante ou risco, inclusive enviando uma viatura
+O que faz   |  Uma assistente virtual que realiza atendimento imediato à vítima – acolhe a denúncia, esclarece dúvidas, faz uma avaliação preliminar do risco e aciona a polícia em situações de flagrante ou risco, inclusive enviando uma viatura
 
 Vantagem : A vítima recebe respostas imediatas
 
-Desvantagem  : Não é software de gestão de tarefas e sim um perfil no whatsapp
+Desvantagem  : Não é um software e sim um perfil no whatsapp
 
 
 - **Botão do pânico**
@@ -50,7 +50,7 @@ Desvantagem  : Não é software de gestão de tarefas e sim um perfil no whatsap
  Vantagem : A comunicação entre a voluntária com a vítima é direta o que torna o suporte, principalmente emocional, eficiente
  
  
- Desvantagem  : O foco está no apoio emocional mas não é um aplicativo que auxilia na gestão de tarefas dos voluntários
+ Desvantagem  : O foco está no apoio emocional mas não é um aplicativo que auxilia na gestão de tarefas dos voluntários dos projetos
  
 - **Projeto Glória**
  
@@ -60,7 +60,7 @@ Desvantagem  : Não é software de gestão de tarefas e sim um perfil no whatsap
  Vantagem : Foca em fazer com que o governo tenha informações mais  claras e precisas sobre a violência doméstica para criar políticas públicas mais eficazes
  
  
- Desvantagem  : O foca está na coleta e análise dados e não na gestão das tarefas dos voluntários.
+ Desvantagem  : O foco está na coleta e análise dados e não na gestão das tarefas dos voluntários.
 
 
 ## Público-Alvo
