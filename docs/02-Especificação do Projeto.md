@@ -37,7 +37,9 @@ A partir da descrição do público-alvo do Documento de Contexto foi feito um a
 **Idade:** 47 anos 
  
 **Localização:** Belo Horizonte, Minas Gerais 
- 
+
+**Cargo na ONG:** Administradora
+
 **Ocupação:** Administradora de uma pequena empresa de cosméticos e voluntária na administração de uma ONG de acolhimento a mulheres vítimas de violência doméstica.
  
 **Uma frase:** “Toda vez que uma mulher se defende, sem nem perceber que isso é possível, sem qualquer pretensão, ela defende todas as mulheres.”
@@ -57,6 +59,8 @@ A partir da descrição do público-alvo do Documento de Contexto foi feito um a
 **Idade:** 31 anos
 
 **Localização:** Belo Horizonte, Minas Gerais
+
+**Cargo na ONG:** Captalizadora de recursos
 
 **Ocupação:** Assistente social da prefeitura de Belo Horizonte e voluntária como capitalizadora de recursos em uma ONG de suporte a mulheres que sofreram violência doméstica.
 
