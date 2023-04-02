@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Projeto Ártemis
 
 `Análise e desonvolvimento de Sistemas`
 
@@ -6,11 +6,13 @@
 
 `1º SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O Projeto Ártemis visa desenvolver uma solução tecnológica para auxiliar a gestão de tarefas diárias de projetos socias e organizações não-governamentais que combatem a violência doméstica e prestam suporte ás vítimas. Levantamos dados não apenas sobre o problema social mas sobre as soluções tecnológicas disponíveis no mercado e vimos que não havia uma aplicação com o foco de facilitar e agilizar a administração da rotina dos voluntários em  instituições e projetos que lutam contra este tipo de violência.
+
+Nosso objetivo é usar a tecnologia para amenizar uma problema na sociedade e a partir disso participar de um desenvolvimento tecnológico com impacto social que pode contribuir na garantia de direitos.
 
 ## Integrantes
 
-* Jacques Junio Drumond Abreu
+
 * Amanda Goncalves Gomes
 * Aislan Madison Bicalho
 * Monique Moura Freitas
@@ -21,7 +23,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+O projeto ainda está na fase de documentação e quando o desenvolvimento estiver pronto colocaremos as instruções de utilização para os usuários.
 
 # Documentação
 
