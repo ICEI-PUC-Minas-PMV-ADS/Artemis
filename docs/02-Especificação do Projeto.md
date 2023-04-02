@@ -16,7 +16,9 @@ A partir da descrição do público-alvo do Documento de Contexto foi feito um a
 
 **Localização:** São Paulo / SP
 
-**Ocupação:**  Psicóloga social, atuando no aspecto profissional das interações humanas.
+**Cargo na ONG:** Psicóloga
+
+**Ocupação:**  Assistente social em Hospital Público e psicóloga voluntária em projeto social qua ajua vítimas de violência doméstica.
 
 **Uma frase:** “Novas folhas, novas flores, na infinita bênção do recomeço.”
 
@@ -79,7 +81,8 @@ A partir da descrição do público-alvo do Documento de Contexto foi feito um a
 |----------------|-------------------------------|-----------------------------|
 |Administradora| Ter uma gestão segura dos voluntários e beneficiários do projeto| Garantir a privadidade dos colaboradores e das vítimas |
 |Administradora| Ter acesso às informações de todos os setores do projeto e poder gerenciar as minhas tarefas diárias| Poder a administrar a minha rotina e ter uma tomada de decisão mais precisa e rápida |
-|Capitalizadora de recursos| Ter um controle das informações sobres os recursos (doações) | Para disponibilizar os recursos o mais rápido possível às vítimas beneficiárias do projeto social |
+|Administradora| Ter acesso às informações sobre o financeiro da organização| Controlar as despesas da organização |
+|Capitalizadora de recursos| Ter um controle das informações sobres os recursos (doações) | Para disponibilizar os recursos o mais rápido possível às vítimas beneficiárias do projeto social  |
 |Psicológa| Ter uma gestão das minhas atividades diárias e organizar as consultas das minhas pacientes | Garantir um controle da minha rotina e privacidade das pessoas atendidas por mim|
 
 ## Requisitos
