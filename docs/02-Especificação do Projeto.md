@@ -66,7 +66,7 @@ A partir da descrição do público-alvo do Documento de Contexto foi feito um a
 
 **Localização:** Belo Horizonte, Minas Gerais
 
-**Cargo na ONG:** Captalizadora de recursos
+**Cargo na ONG:** Capitalizadora de recursos
 
 **Ocupação:** Assistente social da prefeitura de Belo Horizonte e voluntária como capitalizadora de recursos em uma ONG de suporte a mulheres que sofreram violência doméstica.
 
