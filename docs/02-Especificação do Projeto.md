@@ -18,7 +18,7 @@ A partir da descrição do público-alvo do Documento de Contexto foi feito um a
 
 **Cargo na ONG:** Psicóloga
 
-**Ocupação:**  Assistente social em Hospital Público e psicóloga voluntária em projeto social qua ajua vítimas de violência doméstica.
+**Ocupação:**  Assistente social em Hospital Público e psicóloga voluntária em projeto social qua ajuda vítimas de violência doméstica.
 
 **Qualificação:** Formada em Psicologia na  Universidade Estadual de Campinas em 2003
 
