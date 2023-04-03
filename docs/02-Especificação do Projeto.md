@@ -20,6 +20,8 @@ A partir da descrição do público-alvo do Documento de Contexto foi feito um a
 
 **Ocupação:**  Assistente social em Hospital Público e psicóloga voluntária em projeto social qua ajua vítimas de violência doméstica.
 
+**Qualificação:** Formada em Psicologia na  Universidade Estadual de Campinas em 2003
+
 **Uma frase:** “Novas folhas, novas flores, na infinita bênção do recomeço.”
 
 **História:** Paulista de família humilde, casada e mãe de dois filhos. Até então dedicada a auxiliar no desenvolvimento de pessoas, dentro do contexto profissional. Compilada a trazer seu conhecimento e experiências para ajudar mulheres, após sofrer o trauma de perder uma amiga vítima de violência.
@@ -43,6 +45,8 @@ A partir da descrição do público-alvo do Documento de Contexto foi feito um a
 **Cargo na ONG:** Administradora
 
 **Ocupação:** Administradora de uma pequena empresa de cosméticos e voluntária na administração de uma ONG de acolhimento a mulheres vítimas de violência doméstica.
+
+**Qualificação:** Formada em Administração de Empresas na Pontifícia Universidade Católica de Minas Gerais em 2010
  
 **Uma frase:** “Toda vez que uma mulher se defende, sem nem perceber que isso é possível, sem qualquer pretensão, ela defende todas as mulheres.”
 
@@ -65,6 +69,8 @@ A partir da descrição do público-alvo do Documento de Contexto foi feito um a
 **Cargo na ONG:** Captalizadora de recursos
 
 **Ocupação:** Assistente social da prefeitura de Belo Horizonte e voluntária como capitalizadora de recursos em uma ONG de suporte a mulheres que sofreram violência doméstica.
+
+**Qualificação:** Formada em Gestão Financei na Pontifícia Universidade Católica de Minas Gerais em 2019
 
 **Uma frase:** ”Eu não estou aceitando as coisas que eu não posso mudar, estou mudando as coisas que eu não posso aceitar”.
 
