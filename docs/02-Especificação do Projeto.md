@@ -114,7 +114,7 @@ A partir da descrição do público-alvo do Documento de Contexto foi feito um a
 |RFN-03| O sistema deve permitir que todos os usuários cadastrados tenham acesso ao aplicativo pelo login e senha | ALTA |
 |RNF-04| O sistema deve permitir que apenas o usuário administrador possa cadastrar os colaboradores e beneficiários dos projetos| ALTA |
 |RNF-05| O sistema não deve permitir o acesso dos beneficiários dos projetos à aplicação| ALTA |
-|RNF-06| O sistema deve permitir que apenas o captalizador de recursos e o usuário administrador possam registrar, alterar, visualizar e emitir relatórios sobre os recursos (doações)| MÉDIO |
+|RNF-06| O sistema deve permitir que apenas a captalizadora de recursos e o usuário administrador possam registrar, alterar, visualizar e emitir relatórios sobre os recursos (doações) e tenham acesso as informações financeiras da organização| MÉDIO |
 |RNF-07| O sistema deve permitir que apenas o usuário administrador possa ter acesso irrestrito à todos os relatórios| MÉDIO | 
 |RNF-08| O sistema deve permitir a opção de emitir os relatórios em PDF| BAIXA | 
 
