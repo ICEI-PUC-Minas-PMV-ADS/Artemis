@@ -99,7 +99,7 @@ A partir da descrição do público-alvo do Documento de Contexto foi feito um a
 |------|-----------------------------------------|----|
 |RF-01| O sistema deve permitir que todos os usuários tenham perfis | ALTA | 
 |RF-02| O sistema deve permitir registrar, alterar, visualizar e deletar os compromissos com horários, datas e descrição nas agendas dentro dos perfis dos usuários| ALTA |
-|RF-03| O sistema deve permitir aos usuários emitir relatórios sobre a agenda de compromissos   | ALTA |
+|RF-03| O sistema deve permitir aos usuários emitir relatórios e controlar as informaçoes sobre as suas agendas de compromissos   | ALTA |
 |RF-04| O sistema deve permitir registrar, visualizar e emitir reletórios sobre os recursos (doações) | ALTA |
 |RF-05| O sistema deve permitir que os beneficiários dos projetos (vítimas e seus dependentes) sejam cadastrados| MÉDIO |
 
