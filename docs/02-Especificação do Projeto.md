@@ -70,7 +70,7 @@ A partir da descrição do público-alvo do Documento de Contexto foi feito um a
 
 **Ocupação:** Assistente social da prefeitura de Belo Horizonte e voluntária como capitalizadora de recursos em uma ONG de suporte a mulheres que sofreram violência doméstica.
 
-**Qualificação:** Formada em Gestão Financei na Pontifícia Universidade Católica de Minas Gerais em 2019
+**Qualificação:** Formada em Gestão Financeira na Pontifícia Universidade Católica de Minas Gerais em 2019
 
 **Uma frase:** ”Eu não estou aceitando as coisas que eu não posso mudar, estou mudando as coisas que eu não posso aceitar”.
 
