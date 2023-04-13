@@ -16,6 +16,8 @@ Nosso objetivo é usar a tecnologia para amenizar uma problema na sociedade e a 
 * Amanda Goncalves Gomes
 * Aislan Madison Bicalho
 * Monique Moura Freitas
+* Breno Amantea
+* Ana Paula Amantea
 
 ## Orientador
 
