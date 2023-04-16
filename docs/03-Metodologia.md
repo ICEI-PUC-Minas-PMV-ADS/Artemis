@@ -36,9 +36,11 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
      Dois documentos foram planejados: Documento de Contexto e Especificação do Projeto
      
      - Documento de Contexto | As tarefas que foram planejadas | 
+     
           Introdução, Problema, Objetivos, Justificativas, Soluções relacionadas e Público-Alvo
      
      - Especificação do Projeto | As tarefas que foram planejadas | 
+     
           Introdução, criação das personas, elaboração das histórias de usuários, Levantamento dos Requisitos (Funcionais e Não Funcionais) e criar as Restrições do             projeto.
 
 - Execução:
