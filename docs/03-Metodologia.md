@@ -45,6 +45,7 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
           Introdução, criação das personas, elaboração das histórias de usuários, Levantamento dos Requisitos (Funcionais e Não Funcionais) e criar as Restrições do             projeto.
 
 - Execução:
+
 - Evidências:
 
 ### Ferramentas
