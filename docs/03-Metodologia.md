@@ -12,6 +12,7 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para a deinição do processo de desenvolvimento.
 
 A equipe está divida da seguinte forma:
+
       - **Scrum Master:** Amanda 
       - **Product Owner:** Breno
       - **Desenvolvedores:** Aislan, Ana Paula e Monique      
