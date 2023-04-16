@@ -45,8 +45,14 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
           Introdução, criação das personas, elaboração das histórias de usuários, Levantamento dos Requisitos (Funcionais e Não Funcionais) e criar as Restrições do             projeto.
 
 - Execução:
+     A Sprint foi entregue com os documentos.
+     
+     Dificuldades encontradas: A formação do grupo foi tardia, muitos artigos que serviram de base para a elaboração dos documentos não tinham datas ou não tinham          nomes dos autores, e a edição no Git Hub foi uma difuldade comum entre os integrantes do grupo
+
+![Sprint1](https://user-images.githubusercontent.com/128075432/232348810-52c754b0-d25f-47c3-9c24-233e3efb8ec0.PNG)
 
 - Evidências:
+     O Documento de contexto e a Especificação do Projeto foram concluídos e entregues no dia 2 de Abril para avalição do professor Marcos Kutova
 
 ### Ferramentas
 
