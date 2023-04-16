@@ -38,6 +38,7 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
      - Documento de Contexto | As tarefas que foram planejadas | 
      
           Introdução, Problema, Objetivos, Justificativas, Soluções relacionadas e Público-Alvo
+          
      
      - Especificação do Projeto | As tarefas que foram planejadas | 
      
