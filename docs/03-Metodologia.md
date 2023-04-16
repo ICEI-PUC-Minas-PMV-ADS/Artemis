@@ -31,9 +31,6 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
-A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para a deinição do processo de desenvolvimento.
-
-A equipe está divida da seguinte forma:
 
 - Editor de código.
 - Ferramentas de comunicação
