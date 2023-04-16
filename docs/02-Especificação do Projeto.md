@@ -127,5 +127,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
-|03| O prjeto deve ser entregue pelo Github                |
+|03| O projeto deve feito em HTML e CSS                    |
+|04| O projeto deve ser entregue pelo Github               |
 
