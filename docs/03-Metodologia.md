@@ -27,6 +27,21 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 > - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
 > - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
 > - [Tutorial Slack](https://slack.com/intl/en-br/)
+> Etapa 1:
+
+
+- Planejamento:
+
+     Dois documentos foram planejados: Documento de Contexto e Especificação do Projeto
+     
+     - Documento de Contexto | As tarefas que foram planejadas | 
+          Introdução, Problema, Objetivos, Justificativas, Soluções relacionadas e Público-Alvo
+     
+     - Especificação do Projeto | As tarefas que foram planejadas | 
+          Introdução, criação das personas, elaboração das histórias de usuários, Levantamento dos Requisitos (Funcionais e Não Funcionais) e criar as Restrições do             projeto.
+
+- Execução:
+- Evidências:
 
 ### Ferramentas
 
