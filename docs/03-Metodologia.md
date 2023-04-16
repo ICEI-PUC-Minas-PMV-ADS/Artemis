@@ -14,8 +14,8 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para a d
 A equipe está divida da seguinte forma:
 
 - **Scrum Master:** Amanda
-- Product Owner:
-- Desenvolvedores:
+- **Product Owner:** Breno
+- **Desenvolvedores:** Aislan, Ana Paula e Monique
      
 
 ### Processo
