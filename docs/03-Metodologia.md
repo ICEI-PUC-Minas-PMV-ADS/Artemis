@@ -13,9 +13,9 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para a d
 
 A equipe está divida da seguinte forma:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+- Scrum Master:
+- Product Owner:
+- Desenvolvedores:
      
 
 ### Processo
