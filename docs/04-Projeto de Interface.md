@@ -7,6 +7,10 @@ Este documento apresenta uma visão geral da interação dos usuários com o sis
 
 ## User Flow
 
+**Fluxo de Usuário da Psicóloga**
+
+![psicologa - fluxo](https://user-images.githubusercontent.com/128075432/233208094-e37823e4-a043-4422-92cd-e4e53f2848a9.jpeg)
+
 **Fluxo de Usuário da Capitalizadora de Recursos**
 
 ![Fluxo captadora](https://user-images.githubusercontent.com/128915549/233166142-f00cc9bc-f9ef-4b75-9e15-e90657d9b949.png)
