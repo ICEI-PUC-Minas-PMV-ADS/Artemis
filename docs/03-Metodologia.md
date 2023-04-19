@@ -3,7 +3,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Através da compreensão do contexto social no qual a nossa aplicação estará inserida, das necessidades dos nossos usuários e das oportunidades do mercado, nosso grupo realizou passos importantes para prosseguirmos com o projeto. Determinamos os papéis dos integrantes, mantemos o modelo Scrum com a equipe geograficamente distribuída, elaboramos o Product Backlog e as tarefas das Sprints, criamos o Kanban e escolhemos as nossas ferramentas.
 
 ## Gerenciamento de Projeto
 
@@ -48,7 +48,7 @@ A equipe está divida da seguinte forma:
 - Evidências:
      O Documento de contexto e a Especificação do Projeto foram concluídos e entregues no dia 2 de Abril para avalição do professor Marcos Kutova
      
- **Etapa 1:**
+ **Etapa 2:**
 
 
 - Planejamento:
@@ -66,22 +66,18 @@ A equipe está divida da seguinte forma:
 
 - Execução:
      ![Sprint2](https://user-images.githubusercontent.com/128075432/233162419-d24cc583-3fac-48a7-910b-c361bd0e5fe2.PNG)
+     
+- Evidências:
 
 
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
 - Ferramentas de comunicação : Whatsapp e Google Meet
 - Ferramentas de desenho de tela : Figma
+- Ferramenta de hospedagem: GitHub
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
  
 
