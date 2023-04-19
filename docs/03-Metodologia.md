@@ -20,13 +20,7 @@ A equipe está divida da seguinte forma:
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+
 
 **Etapa 1:**
 
@@ -53,14 +47,33 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 - Evidências:
      O Documento de contexto e a Especificação do Projeto foram concluídos e entregues no dia 2 de Abril para avalição do professor Marcos Kutova
+     
+ **Etapa 1:**
+
+
+- Planejamento:
+
+     Dois documentos foram planejados: Documento Metodologia e Projeto de Interface
+     
+     - Documento Metodologia | As tarefas que foram planejadas | 
+     
+          Introdução, Divisão de papéis, Processos com Planejamento, Execução (Kanban) e Evidências, Ferramentas
+          
+     
+     - Projeto de Interface | As tarefas que foram planejadas | 
+     
+          Introdução, Fluxo de usuário, e Wireframes
+
+- Execução:
+     
 
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
 
 - Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+- Ferramentas de comunicação : Whatsapp e Google Meet
+- Ferramentas de desenho de tela : Figma
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas possuem
@@ -70,6 +83,4 @@ necessidades da nossa solução.
 
 Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
  
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+
