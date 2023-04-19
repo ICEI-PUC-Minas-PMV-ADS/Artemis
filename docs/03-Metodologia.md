@@ -65,7 +65,8 @@ A equipe está divida da seguinte forma:
           Introdução, Fluxo de usuário, e Wireframes
 
 - Execução:
-     ![Sprint2](https://user-images.githubusercontent.com/128075432/233162419-d24cc583-3fac-48a7-910b-c361bd0e5fe2.PNG)
+    ![image](https://user-images.githubusercontent.com/128075432/233194361-85042a3e-4b04-46ca-ab0a-b2566f7cc0c7.png)
+
      
 - Evidências:
 
