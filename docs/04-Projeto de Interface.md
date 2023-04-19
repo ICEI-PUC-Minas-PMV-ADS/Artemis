@@ -7,7 +7,7 @@ Este documento apresenta uma visão geral da interação dos usuários com o sis
 
 ## User Flow
 
-**Fluxo de Usuário da Psicóloga**
+**Fluxo de Usuário da Administradora**
 
 ![psicologa - fluxo](https://user-images.githubusercontent.com/128075432/233208094-e37823e4-a043-4422-92cd-e4e53f2848a9.jpeg)
 
