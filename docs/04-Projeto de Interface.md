@@ -19,7 +19,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 > - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
 > - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
 
-##Fluxo de Usuário da Capitalizadora de Recursos
+**Fluxo de Usuário da Capitalizadora de Recursos**
 ![Fluxo captadora](https://user-images.githubusercontent.com/128915549/233166142-f00cc9bc-f9ef-4b75-9e15-e90657d9b949.png)
 
 ## Wireframes
