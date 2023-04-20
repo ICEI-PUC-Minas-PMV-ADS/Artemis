@@ -16,7 +16,12 @@ Este documento apresenta uma visão geral da interação dos usuários com o sis
 ![Fluxo captadora](https://user-images.githubusercontent.com/128915549/233166142-f00cc9bc-f9ef-4b75-9e15-e90657d9b949.png)
 
 
-## Wireframes
+**Fluxo de Usuário da Psicóloga**
+
+![image](https://user-images.githubusercontent.com/128602472/233473714-70135bda-af37-43f9-b9e1-604474dc4932.png)
+
+
+## Estruturas de arame
 
 ![PROJETO ÁRTEMIS - WIREFRAME](https://user-images.githubusercontent.com/129327473/233209645-e2bf7786-f1e6-426f-b61c-570ad21ddca1.png)
 
