@@ -9,7 +9,7 @@ Este documento apresenta uma visão geral da interação dos usuários com o sis
 
 **Fluxo de Usuário da Administradora**
 
-![psicologa - fluxo](https://user-images.githubusercontent.com/128075432/233208094-e37823e4-a043-4422-92cd-e4e53f2848a9.jpeg)
+![Design sem nome (1)](https://user-images.githubusercontent.com/128847179/233697332-e16623c1-ca65-433b-9434-44d926f9adde.png)
 
 **Fluxo de Usuário da Capitalizadora de Recursos**
 
