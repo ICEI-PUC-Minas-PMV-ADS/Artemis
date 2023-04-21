@@ -13,7 +13,7 @@ Este documento apresenta uma visão geral da interação dos usuários com o sis
 
 **Fluxo de Usuário da Capitalizadora de Recursos**
 
-![Fluxo captadora](https://user-images.githubusercontent.com/128915549/233166142-f00cc9bc-f9ef-4b75-9e15-e90657d9b949.png)
+
 
 
 **Fluxo de Usuário da Psicóloga**
