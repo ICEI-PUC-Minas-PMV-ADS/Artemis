@@ -11,9 +11,9 @@ Este documento apresenta uma visão geral da interação dos usuários com o sis
 
 ![Design sem nome (1)](https://user-images.githubusercontent.com/128847179/233697332-e16623c1-ca65-433b-9434-44d926f9adde.png)
 
-**Fluxo de Usuário da Capitalizadora de Recursos**
+**Fluxo de Usuário  da Capitalizadora de Recursos**
 
-
+![Fluxo da Captalizadora de Recursos](https://user-images.githubusercontent.com/128915549/233746090-cf1ed37d-455c-4640-af70-61692c64206c.png)
 
 
 **Fluxo de Usuário da Psicóloga**
