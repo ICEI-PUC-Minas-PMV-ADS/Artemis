@@ -9,7 +9,7 @@ Este documento apresenta uma visão geral da interação dos usuários com o sis
 
 **Fluxo de Usuário da Administradora**
 
-![Design sem nome (1)](https://user-images.githubusercontent.com/128847179/233697332-e16623c1-ca65-433b-9434-44d926f9adde.png)
+![Design sem nome (2)](https://user-images.githubusercontent.com/128847179/233803663-6d5331c7-7b6c-48a1-870a-e4412f67224c.png)
 
 **Fluxo de Usuário  da Capitalizadora de Recursos**
 
