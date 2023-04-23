@@ -71,7 +71,7 @@ A equipe está divida da seguinte forma:
 
      
 - Evidências:
-     O Documento de contexto e a Especificação do Projeto foram concluídos e entregues no dia 2 de Abril para avalição do professor Marcos Kutova
+     O Documento Metodologiao e o Projeto de Interface foram concluídos e entregues no dia 23 de Abril para avalição do professor Marcos Kutova.
 
 ### Ferramentas
 
