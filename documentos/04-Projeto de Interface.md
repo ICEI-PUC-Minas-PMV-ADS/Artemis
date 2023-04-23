@@ -18,7 +18,7 @@ Este documento apresenta uma visão geral da interação dos usuários com o sis
 
 **Fluxo de Usuário da Psicóloga**
 
-![image](https://user-images.githubusercontent.com/128602472/233473714-70135bda-af37-43f9-b9e1-604474dc4932.png)
+![image](https://user-images.githubusercontent.com/128602472/233866897-a4031dab-77ab-403a-8b8b-7a0cf2399be4.png)
 
 
 ## Estruturas de arame
