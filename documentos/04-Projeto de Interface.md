@@ -23,6 +23,6 @@ Este documento apresenta uma visão geral da interação dos usuários com o sis
 
 ## Estruturas de arame
 
-![PROJETO ÁRTEMIS - WIREFRAME](https://user-images.githubusercontent.com/129327473/233209645-e2bf7786-f1e6-426f-b61c-570ad21ddca1.png)
+![PROJETO ÁRTEMIS - WIREFRAME](https://user-images.githubusercontent.com/129327473/233813739-20db1b23-4ddf-4eec-bb79-9c2b5f088a1e.png)
 
 
