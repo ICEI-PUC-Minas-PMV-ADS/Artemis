@@ -65,11 +65,13 @@ A equipe está divida da seguinte forma:
           Introdução, Fluxo de usuário, e Wireframes
 
 - Execução:
-    ![image](https://user-images.githubusercontent.com/128075432/233194361-85042a3e-4b04-46ca-ab0a-b2566f7cc0c7.png)
+      Dificuldades encontradas: A edição no Git Hub também foi uma difuldade comum entre os integrantes do grupo.
+      
+    ![kanban2](https://user-images.githubusercontent.com/128075432/233869970-fd6f9399-6a9e-46c4-8685-e952b8232b03.PNG)
 
      
 - Evidências:
-
+     O Documento de contexto e a Especificação do Projeto foram concluídos e entregues no dia 2 de Abril para avalição do professor Marcos Kutova
 
 ### Ferramentas
 
