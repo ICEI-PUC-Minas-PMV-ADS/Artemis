@@ -1,0 +1,48 @@
+body {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+button {
+    background-color: #8C52FF;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    width: 200px;
+    height: 40px;
+    font-size: x-large;
+    font-weight: bold;
+    border-radius: 20px;
+    border: solid 1px #81307d;
+}
+
+:hover {
+    color: red;
+}
+
+section {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+#coluna1 {
+    width: 20%;
+    float: left;
+    text-align: center;
+    border: solid 2px #81307d ;
+    }
+
+#coluna2 {
+    width: 80%;
+    float: right;
+       }
+
+#coluna3 {
+    float: right;  
+}
+
+.bt3 {
+    font-size: smaller;
+    width: 100px;
+    height: 20px;
+}
