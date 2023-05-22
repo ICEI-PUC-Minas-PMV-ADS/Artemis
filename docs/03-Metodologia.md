@@ -82,6 +82,15 @@ As ferramentas empregadas no projeto são:
 - Ferramenta de hospedagem: GitHub
 
 **Etapa 3:**
+-Planejamento:
 
+   Foi planejado o desenvolvimento das páginas e uma função
+   
+   - Criação das páginas e função: Tarefas planejadas
+      
+      Divisão das tarefas e execução
+      
+   
+ Execução: Foram entregues duas páginas e uma funcionabilidade.
  
-
+   Dificuldades encontradas- Primeiro contato de alguns com a codificação foi um fator dificultador para o desenvolvimento.
