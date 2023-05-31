@@ -94,3 +94,22 @@ As ferramentas empregadas no projeto são:
  Execução: Foram entregues duas páginas e uma funcionabilidade.
  
    Dificuldades encontradas- Primeiro contato de alguns com a codificação foi um fator dificultador para o desenvolvimento.
+   
+   ### Ferramentas
+
+As ferramentas empregadas no projeto são:
+
+  - Ferramentas de comunicação : Whatsapp e Google Meet
+  - Ferramenta de hospedagem: GitHub
+  - Ferramentas de criação: VSCode
+   
+   **Etapa 4:**
+   
+   -Planejamento:
+    
+    Três documentos foram planejados: Programação de Funcionalidade, Plano de Testes de Software e Registro de Testes de Sofware.
+    
+       - Tarefas da etapa:
+          Introdução, planejamento, divisão das tarefas, reunião do grupo e execução do proposto
+        
+   
