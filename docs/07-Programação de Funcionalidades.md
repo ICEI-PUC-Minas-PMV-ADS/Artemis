@@ -15,4 +15,4 @@ Para cada requisito funcional, pode ser entregue um artefato desse tipo
 > - [JSON Tutorial](https://www.w3resource.com/JSON)
 > - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
 > - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+
