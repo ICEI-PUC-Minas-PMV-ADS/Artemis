@@ -10,6 +10,9 @@ A tela de login é a primeira tela do sistema onde permite os usuários ao acess
 - RF-01
 
  Artefatos da funcionalidade
+ - index.html
+ - login.js
+ - style.css
  
 Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
 
