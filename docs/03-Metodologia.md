@@ -91,7 +91,7 @@ As ferramentas empregadas no projeto são:
       Divisão das tarefas e execução
   ![kanban3](https://github.com/ICEI-PUC-Minas-PMV-ADS/Artemis/blob/289a498d5d706f3dba2455390fa84dff42fd70e8/docs/img/sprint%203.PNG)  
    
- Execução: Foram entregues duas páginas e uma funcionabilidade.
+ Execução: Foram entregues duas páginas e uma funcionabilidade, para realizar essas tarefas tivemos dificuldades pela falta de experiência com as linguagens. Fizemos alguns encontros porém não tivemos total êxito em terminar os trabalhos sugeridos.
  
    Dificuldades encontradas- Primeiro contato de alguns com a codificação foi um fator dificultador para o desenvolvimento.
    
@@ -101,7 +101,7 @@ As ferramentas empregadas no projeto são:
 
   - Ferramentas de comunicação : Whatsapp e Google Meet
   - Ferramenta de hospedagem: GitHub
-  - Ferramentas de criação: VSCode
+  - Ferramentas de criação: VSCode ChatGpt
    
    **Etapa 4:**
    
