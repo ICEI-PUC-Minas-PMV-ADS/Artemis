@@ -96,7 +96,7 @@ As ferramentas empregadas no projeto são:
    Dificuldades encontradas- Primeiro contato de alguns com a codificação foi um fator dificultador para o desenvolvimento.
  
  - Evidências:
-
+      Foram entregues duas páginas e uma funcionalidade apesar de não estarem interligadas, porém fora do prazo proposto.
 
 
    ### Ferramentas
