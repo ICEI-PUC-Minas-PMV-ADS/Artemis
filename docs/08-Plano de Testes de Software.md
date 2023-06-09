@@ -2,9 +2,7 @@
 
 
 
-| Caso de teste | CT-01 |
-|____________|____________|
-| Resquisitos associados | teste 01 |
-|____________|____________|
-| Objetivo do teste | teste 01 |
-|____________|____________|
+|    Caso de teste            |CT teste01                                      |
+|----------------|-------------------------------|-----------------------------|
+|Requisitos associados| teste 01 |
+|Objetivo do teste| teste 01 |
