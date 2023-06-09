@@ -3,7 +3,7 @@
 
 
 | Caso de teste | CT-01 |
-________________________
+|________________________|
 | Resquisitos associados | teste 01 |
-________________________
+|________________________|
 | Objetivo do teste | teste 01 |
