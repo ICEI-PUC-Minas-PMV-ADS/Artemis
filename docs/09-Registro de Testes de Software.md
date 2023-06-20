@@ -48,4 +48,16 @@ Após preencher “Item” e “Quantidade”:
 
 Clicando no botão “Salvar”, o registro do recurso será feito. 
 
+![Captura de Tela (113)](https://github.com/ICEI-PUC-Minas-PMV-ADS/Artemis/assets/128847179/dc3d45da-0fcd-4854-8844-ef1be23e8bf4)
+
+Voltando a tela de Login, usando o exemplo da Psicóloga, o campo “E-mail” é preenchido com  “psicologa@email.com” e o campo “Senha” é preenchido com “psicologa123”. Após conectar-se, a Psicóloga terá acesso a sua Agenda, como a Administradora, além de poder registrar pacientes e seus respectivos contatos. 
+
+![Captura de Tela (131)](https://github.com/ICEI-PUC-Minas-PMV-ADS/Artemis/assets/128847179/a39b00dd-0ccf-40e8-96f9-4a39cf1be3cf)
+
+Após preencher “Nome” e “Telefone” e “Salvar”, ficará o registro do paciente.
+
+![Captura de Tela (132)](https://github.com/ICEI-PUC-Minas-PMV-ADS/Artemis/assets/128847179/c5dcbc90-a03f-4a23-8b50-5f426c12f738)
+
+Voltando a tela de login, usando o exemplo da Capitalizadora de Recursos, o campo “E-mail” é preenchido com  “capitalizadora@email.com” e o campo “Senha” é preenchido com “capitalizadora123”. Após se conectar, ela terá acesso a Agenda, Patrocinadores e Recurso, testes que já foram realizados acima. 
+
 
