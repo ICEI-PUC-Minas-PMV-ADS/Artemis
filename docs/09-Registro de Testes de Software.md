@@ -10,4 +10,4 @@ Usando o exemplo da Administradora, o campo “E-mail” é preenchido com  “a
 
 Seguindo o Userflow da Administradora, podemos consultar Agenda, Colaboradores, Patrocinadores e Recurso, clicando em cima de cada um deles. 
 
-
+![Captura de Tela (102)](https://github.com/ICEI-PUC-Minas-PMV-ADS/Artemis/assets/128847179/e1063907-7f97-476b-bc74-052f8cb61657)
