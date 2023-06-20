@@ -40,9 +40,10 @@ E clicar no botão “Salvar”, o patrocinador será registrado.
 
 Saindo dessa página e clicando em “Recurso”, a Administradora poderá registrar recursos da ONG. Essa parte cabe à Capitalizadora de Recursos, entretanto, a Administradora possui acesso e pode salvar e editar informações.
 
+![Captura de Tela (110)](https://github.com/ICEI-PUC-Minas-PMV-ADS/Artemis/assets/128847179/86dbfefe-cf2a-45d2-8c6e-dca811c96b66)
 
+Após preencher “Item” e “Quantidade”:
 
-
-
+![Captura de Tela (111)](https://github.com/ICEI-PUC-Minas-PMV-ADS/Artemis/assets/128847179/bc2b9ba8-1e12-4376-a45b-6edeaeac535a)
 
 
