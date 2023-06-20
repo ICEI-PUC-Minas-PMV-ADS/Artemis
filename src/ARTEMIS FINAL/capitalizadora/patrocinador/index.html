@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../../style.css">
+    <title>Patrocinador</title>
+</head>
+<body>
+    <br><h1>Patrocinadores</h1>
+    <div id="coluna1">
+        <figure>
+            <img width="20%" height="140" src="../../img/fotoCapitalizadora.jpg" alt="foto captalizadora">
+        </figure>
+        <section><!--nome usuário--><b>Rafaela Borges Silveira</b></section><br>
+    </div>
+   
+    <a href='../'><button>VOLTAR</button></a>
+       <main>
+        <form>
+            <input type="hidden" name="id"/>
+            <input name="nome" type="text" maxlength="50" placeholder="Nome" required />
+            <input name="telefone" type="text" maxlength="50" placeholder="Telefone" required />
+            <input type="submit" value="SALVAR" />
+        </form>
+        <div class="list">
+            <input  type="text" placeholder="Pesquisar" onkeyup="listar(this.value)"/>
+            <ul>
+
+            </ul>
+        </div>
+    </main>
+    <script src="patrocinador.js" ></script>
+
+</body>
+</html>
