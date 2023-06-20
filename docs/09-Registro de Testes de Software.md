@@ -14,3 +14,9 @@ Seguindo o Userflow da Administradora, podemos consultar Agenda, Colaboradores, 
 
 ![Captura de Tela (103)](https://github.com/ICEI-PUC-Minas-PMV-ADS/Artemis/assets/128847179/f578c845-c98d-4268-be6d-3d8acc8d280c)
 
+Temos um calendário, onde no fim da página é possível adicionar eventos e reuniões. Por exemplo:
+
+
+
+
+
