@@ -32,6 +32,14 @@ Saindo dessa página e clicando em “Patrocinador”, ela poderá registrar pat
 
 Após preencher o campo de “Nome” e “Telefone”:
 
+![Captura de Tela (108)](https://github.com/ICEI-PUC-Minas-PMV-ADS/Artemis/assets/128847179/f66214c8-c9ce-4a79-8414-df0330acf6ef)
+
+E clicar no botão “Salvar”, o patrocinador será registrado. 
+
+![Captura de Tela (109)](https://github.com/ICEI-PUC-Minas-PMV-ADS/Artemis/assets/128847179/01b2e7e1-ed81-4f03-9bb0-921e40597edc)
+
+Saindo dessa página e clicando em “Recurso”, a Administradora poderá registrar recursos da ONG. Essa parte cabe à Capitalizadora de Recursos, entretanto, a Administradora possui acesso e pode salvar e editar informações.
+
 
 
 
