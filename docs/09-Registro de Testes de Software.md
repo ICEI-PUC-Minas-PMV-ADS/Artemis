@@ -46,4 +46,6 @@ Após preencher “Item” e “Quantidade”:
 
 ![Captura de Tela (111)](https://github.com/ICEI-PUC-Minas-PMV-ADS/Artemis/assets/128847179/bc2b9ba8-1e12-4376-a45b-6edeaeac535a)
 
+Clicando no botão “Salvar”, o registro do recurso será feito. 
+
 
