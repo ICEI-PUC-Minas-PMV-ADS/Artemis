@@ -30,6 +30,9 @@ Saindo dessa página e clicando em “Patrocinador”, ela poderá registrar pat
 
 ![Captura de Tela (107)](https://github.com/ICEI-PUC-Minas-PMV-ADS/Artemis/assets/128847179/ba8db8e5-3e62-4f2e-8469-4f0a434d6bcd)
 
+Após preencher o campo de “Nome” e “Telefone”:
+
+
 
 
 
