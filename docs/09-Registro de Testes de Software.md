@@ -16,6 +16,20 @@ Seguindo o Userflow da Administradora, podemos consultar Agenda, Colaboradores, 
 
 Temos um calendário, onde no fim da página é possível adicionar eventos e reuniões. Por exemplo:
 
+![Captura de Tela (104)](https://github.com/ICEI-PUC-Minas-PMV-ADS/Artemis/assets/128847179/e527b8c4-1b75-4f97-ac07-8a36c8b23a66)
+
+Após clicar no botão “Salvar”, a Reunião irá aparecer na Agenda. 
+
+![Captura de Tela (105)](https://github.com/ICEI-PUC-Minas-PMV-ADS/Artemis/assets/128847179/59ab3fb3-8e1b-445a-be86-f73a439c9b69)
+
+No topo da tela, após clicar no botão “Voltar”, a Administradora poderá acessar as outras telas, na área de “Colaboradores” ela tem armazenado informações sobre seus colegas de trabalho, assim como Login e Senha. 
+
+![Captura de Tela (106)](https://github.com/ICEI-PUC-Minas-PMV-ADS/Artemis/assets/128847179/ee39725a-4d44-41c4-92f1-a02b480c9682)
+
+Saindo dessa página e clicando em “Patrocinador”, ela poderá registrar patrocinadores e seus respectivos contatos. 
+
+![Captura de Tela (107)](https://github.com/ICEI-PUC-Minas-PMV-ADS/Artemis/assets/128847179/ba8db8e5-3e62-4f2e-8469-4f0a434d6bcd)
+
 
 
 
