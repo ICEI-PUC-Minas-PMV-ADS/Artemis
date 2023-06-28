@@ -1,9 +1,5 @@
 # Apresentação
 
-<span style="color:red">Pré-requisitos: Todos os demais artefatos</span>
-
-<a href="../presentation/README.md"> Clique aqui para fazer os uploads dos arquivos de apresentação da solução.</a>
-
 https://www.youtube.com/watch?v=nI5iwHE9JKI
 
 ## Conjunto de Slides (Estrutura)
